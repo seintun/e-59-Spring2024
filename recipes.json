@@ -1,0 +1,2824 @@
+[
+  {
+    "RecipeID": "2151ac26-d57b-4c16-9921-968703c7deae",
+    "Title": "Grilled Salmon with Garlic Spinach",
+    "Instructions": [
+      "Preheat the grill to medium-high.",
+      "Season salmon fillets with salt and pepper and grill until cooked through.",
+      "Saut\u00e9 spinach and minced garlic in olive oil until spinach is wilted."
+    ],
+    "ServingSize": "2 servings",
+    "PreparationTime": "30 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "H86Kxy",
+        "Quantity": "2 fillets"
+      },
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "3 cloves"
+      },
+      {
+        "IngredientID": "XtpDpb",
+        "Quantity": "200g"
+      }
+    ],
+    "AverageRatings": "4.5",
+    "Reviews": [
+      {
+        "UserID": "32",
+        "Rating": 4.0,
+        "Comment": "Perfectly grilled and flavorful!"
+      },
+      {
+        "UserID": "2",
+        "Rating": 3.0,
+        "Comment": "Healthy and simple to make."
+      },
+      {
+        "UserID": "63",
+        "Rating": 2.5,
+        "Comment": "Great combination of flavors."
+      },
+      {
+        "UserID": "85",
+        "Rating": 2.5,
+        "Comment": "Quick and delicious meal."
+      },
+      {
+        "UserID": "123",
+        "Rating": 2.5,
+        "Comment": "Light and satisfying dinner."
+      },
+      {
+        "UserID": "81",
+        "Rating": 4.5,
+        "Comment": "Easy and tasty recipe."
+      },
+      {
+        "UserID": "14",
+        "Rating": 3.0,
+        "Comment": "Healthy and delicious!"
+      },
+      {
+        "UserID": "47",
+        "Rating": 2.5,
+        "Comment": "Simple and flavorful."
+      },
+      {
+        "UserID": "72",
+        "Rating": 3.5,
+        "Comment": "Great for a weeknight dinner."
+      },
+      {
+        "UserID": "93",
+        "Rating": 3.0,
+        "Comment": "Tasty and nutritious!"
+      },
+      {
+        "UserID": "21",
+        "Rating": 4.0,
+        "Comment": "Delicious and healthy!"
+      },
+      {
+        "UserID": "94",
+        "Rating": 1.5,
+        "Comment": "Quick and easy to make."
+      },
+      {
+        "UserID": "107",
+        "Rating": 4.5,
+        "Comment": "Perfectly cooked salmon!"
+      },
+      {
+        "UserID": "22",
+        "Rating": 4.5,
+        "Comment": "Healthy and flavorful."
+      },
+      {
+        "UserID": "124",
+        "Rating": 1.0,
+        "Comment": "Great recipe for salmon."
+      },
+      {
+        "UserID": "104",
+        "Rating": 4.5,
+        "Comment": "Delicious and nutritious!"
+      },
+      {
+        "UserID": "145",
+        "Rating": 1.5,
+        "Comment": "Simple and tasty."
+      },
+      {
+        "UserID": "137",
+        "Rating": 2.5,
+        "Comment": "Healthy and satisfying."
+      },
+      {
+        "UserID": "13",
+        "Rating": 2.0,
+        "Comment": "Quick and delicious!"
+      },
+      {
+        "UserID": "87",
+        "Rating": 2.0,
+        "Comment": "Easy and flavorful."
+      },
+      {
+        "UserID": "136",
+        "Rating": 1.0,
+        "Comment": "Great for a weeknight meal."
+      },
+      {
+        "UserID": "129",
+        "Rating": 2.5,
+        "Comment": "Tasty and healthy!"
+      },
+      {
+        "UserID": "84",
+        "Rating": 5.0,
+        "Comment": "Delicious and light!"
+      },
+      {
+        "UserID": "73",
+        "Rating": 3.0,
+        "Comment": "Quick and satisfying."
+      },
+      {
+        "UserID": "137",
+        "Rating": 3.0,
+        "Comment": "Healthy and tasty!"
+      }
+    ],
+    "Tags": [
+      "Healthy",
+      "Gluten-Free",
+      "Low-Carb"
+    ]
+  },
+  {
+    "RecipeID": "d5940027-cee0-4d27-8864-a49060f74262",
+    "Title": "Classic Beef Steak",
+    "Instructions": [
+      "Preheat your grill to high.",
+      "Season the steak with salt and ground black pepper.",
+      "Grill each side for 6 minutes for medium rare."
+    ],
+    "ServingSize": "1 serving",
+    "PreparationTime": "15 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "nfFhod",
+        "Quantity": "1 steak"
+      }
+    ],
+    "AverageRatings": "4.8",
+    "Reviews": [
+      {
+        "UserID": "141",
+        "Rating": 3.5,
+        "Comment": "Juicy and tender steak, a must-try!"
+      },
+      {
+        "UserID": "92",
+        "Rating": 4.0,
+        "Comment": "Great flavor, a bit too rare for me."
+      },
+      {
+        "UserID": "107",
+        "Rating": 3.0,
+        "Comment": "Perfectly cooked, delicious with a side salad."
+      },
+      {
+        "UserID": "30",
+        "Rating": 3.0,
+        "Comment": "Simple and delicious, great for a quick meal."
+      },
+      {
+        "UserID": "110",
+        "Rating": 2.5,
+        "Comment": "Amazing steak, will definitely make again!"
+      },
+      {
+        "UserID": "97",
+        "Rating": 1.5,
+        "Comment": "Tender and flavorful, a classic recipe."
+      },
+      {
+        "UserID": "96",
+        "Rating": 2.5,
+        "Comment": "Delicious and easy to make, perfect for dinner."
+      },
+      {
+        "UserID": "143",
+        "Rating": 1.5,
+        "Comment": "Great recipe for steak lovers."
+      },
+      {
+        "UserID": "17",
+        "Rating": 2.5,
+        "Comment": "Juicy and flavorful, a family favorite!"
+      },
+      {
+        "UserID": "149",
+        "Rating": 2.0,
+        "Comment": "Perfectly cooked, great with a glass of red wine"
+      }
+    ],
+    "Tags": [
+      "Keto",
+      "Low-Carb",
+      "Paleo"
+    ]
+  },
+  {
+    "RecipeID": "31c410c5-2b68-45ca-b90f-385ff02b1662",
+    "Title": "Broccoli and Cheddar Soup",
+    "Instructions": [
+      "In a pot, melt butter over medium heat.",
+      "Add chopped onions and cook until translucent.",
+      "Add broccoli and chicken broth, simmer for 20 minutes.",
+      "Blend the mixture until smooth, return to heat, and add grated cheddar until melted."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "45 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "UmQnD4",
+        "Quantity": "1 head"
+      },
+      {
+        "IngredientID": "EXJvTL",
+        "Quantity": "200g"
+      },
+      {
+        "IngredientID": "K9klQl",
+        "Quantity": "1 tbsp"
+      }
+    ],
+    "AverageRatings": "4.7",
+    "Reviews": [
+      {
+        "UserID": "38",
+        "Rating": 2.0,
+        "Comment": "Creamy and comforting!"
+      },
+      {
+        "UserID": "104",
+        "Rating": 2.0,
+        "Comment": "Delicious but could use a bit more cheese."
+      },
+      {
+        "UserID": "82",
+        "Rating": 5.0,
+        "Comment": "Great flavor and texture, perfect for a cold day."
+      },
+      {
+        "UserID": "124",
+        "Rating": 2.5,
+        "Comment": "Creamy and satisfying, will make again."
+      },
+      {
+        "UserID": "64",
+        "Rating": 1.5,
+        "Comment": "Delicious and easy to make, great with crusty bread."
+      },
+      {
+        "UserID": "60",
+        "Rating": 2.0,
+        "Comment": "Comforting and flavorful, a family favorite."
+      },
+      {
+        "UserID": "141",
+        "Rating": 0.5,
+        "Comment": "Creamy and delicious, great for lunch."
+      },
+      {
+        "UserID": "121",
+        "Rating": 1.5,
+        "Comment": "Tasty and comforting, perfect with a side salad."
+      },
+      {
+        "UserID": "61",
+        "Rating": 1.5,
+        "Comment": "Perfect for a cozy night in!"
+      },
+      {
+        "UserID": "43",
+        "Rating": 3.5,
+        "Comment": "Creamy and flavorful, great with garlic bread."
+      }
+    ],
+    "Tags": [
+      "Vegetarian",
+      "Comfort Food",
+      "Gluten-Free"
+    ]
+  },
+  {
+    "RecipeID": "df2896b1-55d0-4980-a8a5-222651ee3820",
+    "Title": "Mediterranean Quinoa Salad",
+    "Instructions": [
+      "Cook quinoa as per package instructions.",
+      "Combine cooked quinoa, chopped cucumbers, tomatoes, red onion, feta cheese, and olives.",
+      "Dress with olive oil and lemon juice, season with salt and pepper."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "25 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "40CznT",
+        "Quantity": "1 cup"
+      },
+      {
+        "IngredientID": "K1Rc8Z",
+        "Quantity": "2 tomatoes"
+      },
+      {
+        "IngredientID": "XlbTBE",
+        "Quantity": "3 tbsp"
+      }
+    ],
+    "AverageRatings": "4.6",
+    "Reviews": [
+      {
+        "UserID": "34",
+        "Rating": 4.5,
+        "Comment": "Refreshing and healthy."
+      },
+      {
+        "UserID": "148",
+        "Rating": 4.0,
+        "Comment": "Nice texture and taste, great for summer."
+      },
+      {
+        "UserID": "111",
+        "Rating": 2.5,
+        "Comment": "Delicious and satisfying, perfect for lunch."
+      },
+      {
+        "UserID": "82",
+        "Rating": 4.0,
+        "Comment": "Healthy and flavorful, will make again."
+      },
+      {
+        "UserID": "143",
+        "Rating": 2.0,
+        "Comment": "Great combination of ingredients, a new favorite."
+      },
+      {
+        "UserID": "147",
+        "Rating": 2.0,
+        "Comment": "Tasty and easy to make, perfect for picnics."
+      },
+      {
+        "UserID": "25",
+        "Rating": 4.0,
+        "Comment": "Light and delicious, great for a side dish."
+      },
+      {
+        "UserID": "146",
+        "Rating": 4.5,
+        "Comment": "Healthy and flavorful, perfect for a light meal."
+      }
+    ],
+    "Tags": [
+      "Vegan",
+      "Gluten-Free",
+      "Healthy"
+    ]
+  },
+  {
+    "RecipeID": "f5bccd88-a93e-47b0-bef5-0500c655795b",
+    "Title": "Lemon Herb Roast Chicken",
+    "Instructions": [
+      "Preheat the oven to 375\u00b0F.",
+      "Rub the chicken with olive oil, lemon zest, and herbs.",
+      "Roast the chicken for 1 hour or until the internal temperature reaches 165\u00b0F."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "1 hour 30 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "H86Kxy",
+        "Quantity": "1 whole"
+      },
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "2 tbsp"
+      },
+      {
+        "IngredientID": "XtpDpb",
+        "Quantity": "1 tbsp"
+      }
+    ],
+    "AverageRatings": "4.9",
+    "Reviews": [
+      {
+        "UserID": "65",
+        "Rating": 4.5,
+        "Comment": "Juicy and flavorful, a family favorite!"
+      },
+      {
+        "UserID": "120",
+        "Rating": 4.0,
+        "Comment": "Delicious and aromatic, will make again."
+      }
+    ],
+    "Tags": [
+      "Dinner",
+      "Gluten-Free",
+      "Paleo"
+    ]
+  },
+  {
+    "RecipeID": "5630e158-4bfb-43c9-a9ad-5bf59605bf33",
+    "Title": "Vegetarian Tofu Stir-Fry",
+    "Instructions": [
+      "In a wok, heat oil and saut\u00e9 garlic and ginger until fragrant.",
+      "Add tofu, bell peppers, and snap peas, stir-fry until vegetables are tender.",
+      "Season with soy sauce, sesame oil, and chili flakes."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "30 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "J9kL8z",
+        "Quantity": "1 block"
+      },
+      {
+        "IngredientID": "K1Rc8Z",
+        "Quantity": "1 red"
+      },
+      {
+        "IngredientID": "XlbTBE",
+        "Quantity": "2 tbsp"
+      }
+    ],
+    "AverageRatings": "4.4",
+    "Reviews": [
+      {
+        "UserID": "25",
+        "Rating": 2.5,
+        "Comment": "Quick, easy, and delicious!"
+      },
+      {
+        "UserID": "61",
+        "Rating": 0.5,
+        "Comment": "Healthy and flavorful, great for meatless Mondays."
+      }
+    ],
+    "Tags": [
+      "Vegetarian",
+      "Healthy",
+      "Gluten-Free"
+    ]
+  },
+  {
+    "RecipeID": "0c3c8f69-10be-4c29-8816-f811a5c6394b",
+    "Title": "Pumpkin Spice Pancakes",
+    "Instructions": [
+      "In a bowl, whisk together flour, sugar, baking powder, and spices.",
+      "Add milk, pumpkin puree, and eggs, mix until smooth.",
+      "Cook pancakes on a griddle until golden brown."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "20 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "40CznT",
+        "Quantity": "1 cup"
+      },
+      {
+        "IngredientID": "UmQnD4",
+        "Quantity": "1 cup"
+      },
+      {
+        "IngredientID": "K9klQl",
+        "Quantity": "2 tbsp"
+      }
+    ],
+    "AverageRatings": "4.3",
+    "Reviews": [
+      {
+        "UserID": "54",
+        "Rating": 1.5,
+        "Comment": "Perfect for fall mornings!"
+      },
+      {
+        "UserID": "113",
+        "Rating": 1.5,
+        "Comment": "Delicious and fluffy, great with maple syrup."
+      }
+    ],
+    "Tags": [
+      "Breakfast",
+      "Vegetarian",
+      "Comfort Food"
+    ]
+  },
+  {
+    "RecipeID": "25de501d-4077-4b84-b6ff-e1b054066149",
+    "Title": "Spaghetti Carbonara",
+    "Instructions": [
+      "Cook spaghetti according to package instructions.",
+      "In a pan, cook pancetta until crispy, then add garlic and cook until fragrant.",
+      "Whisk eggs, cheese, and pepper in a bowl, then add to the pan with the spaghetti."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "20 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "40CznT",
+        "Quantity": "1 lb"
+      },
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "4 slices"
+      },
+      {
+        "IngredientID": "XtpDpb",
+        "Quantity": "4"
+      }
+    ],
+    "AverageRatings": "4.7",
+    "Reviews": [
+      {
+        "UserID": "53",
+        "Rating": 5.0,
+        "Comment": "Creamy and delicious, a classic recipe!"
+      },
+      {
+        "UserID": "20",
+        "Rating": 2.5,
+        "Comment": "Great flavor, easy to make."
+      },
+      {
+        "UserID": "55",
+        "Rating": 1.5,
+        "Comment": "Delicious and satisfying, perfect for a cozy night in."
+      },
+      {
+        "UserID": "6",
+        "Rating": 3.5,
+        "Comment": "Tasty and comforting, great with a glass of wine."
+      },
+      {
+        "UserID": "35",
+        "Rating": 3.0,
+        "Comment": "Creamy and flavorful, a new favorite."
+      },
+      {
+        "UserID": "98",
+        "Rating": 0.5,
+        "Comment": "Simple and delicious, great for a quick dinner."
+      },
+      {
+        "UserID": "32",
+        "Rating": 4.5,
+        "Comment": "Perfect carbonara, will make again!"
+      },
+      {
+        "UserID": "46",
+        "Rating": 0.5,
+        "Comment": "Delicious and easy to make, great for pasta lovers."
+      }
+    ],
+    "Tags": [
+      "Italian",
+      "Comfort Food",
+      "Quick & Easy"
+    ]
+  },
+  {
+    "RecipeID": "924e2163-8c9c-4b7b-8803-2616e2dbb6d9",
+    "Title": "Chicken Fajitas",
+    "Instructions": [
+      "In a skillet, cook chicken with bell peppers and onions until chicken is cooked through.",
+      "Season with fajita seasoning and lime juice, serve with tortillas and toppings."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "25 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "H86Kxy",
+        "Quantity": "1 lb"
+      },
+      {
+        "IngredientID": "K1Rc8Z",
+        "Quantity": "1 red"
+      },
+      {
+        "IngredientID": "XlbTBE",
+        "Quantity": "1 tbsp"
+      }
+    ],
+    "AverageRatings": "4.6",
+    "Reviews": [
+      {
+        "UserID": "111",
+        "Rating": 2.5,
+        "Comment": "Delicious and easy to make, great for a family dinner."
+      },
+      {
+        "UserID": "43",
+        "Rating": 5.0,
+        "Comment": "Tasty and flavorful, perfect for a quick meal."
+      },
+      {
+        "UserID": "99",
+        "Rating": 5.0,
+        "Comment": "Great combination of ingredients, a new favorite."
+      },
+      {
+        "UserID": "115",
+        "Rating": 1.5,
+        "Comment": "Simple and delicious, perfect for a weeknight dinner."
+      },
+      {
+        "UserID": "91",
+        "Rating": 3.0,
+        "Comment": "Delicious and satisfying, great with guacamole."
+      },
+      {
+        "UserID": "26",
+        "Rating": 4.0,
+        "Comment": "Quick and easy to make, perfect for a casual dinner."
+      },
+      {
+        "UserID": "64",
+        "Rating": 2.0,
+        "Comment": "Amazing fajitas, will make again!"
+      },
+      {
+        "UserID": "66",
+        "Rating": 3.5,
+        "Comment": "Flavorful and delicious, great with salsa and sour cream."
+      }
+    ],
+    "Tags": [
+      "Mexican",
+      "Dinner",
+      "Quick & Easy"
+    ]
+  },
+  {
+    "RecipeID": "31cf8794-ff57-4a06-a5d0-99c7cad528f4",
+    "Title": "Chocolate Chip Cookies",
+    "Instructions": [
+      "Preheat the oven to 350\u00b0F.",
+      "In a bowl, cream butter and sugars until light and fluffy.",
+      "Add eggs and vanilla, then mix in flour, baking soda, and chocolate chips.",
+      "Drop spoonfuls of dough onto a baking sheet and bake for 10-12 minutes."
+    ],
+    "ServingSize": "24 cookies",
+    "PreparationTime": "30 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "1 cup"
+      },
+      {
+        "IngredientID": "XtpDpb",
+        "Quantity": "1 cup"
+      },
+      {
+        "IngredientID": "K9klQl",
+        "Quantity": "2"
+      }
+    ],
+    "AverageRatings": "4.8",
+    "Reviews": [
+      {
+        "UserID": "100",
+        "Rating": 3.5,
+        "Comment": "Perfectly chewy and delicious!"
+      },
+      {
+        "UserID": "35",
+        "Rating": 3.0,
+        "Comment": "Great flavor and texture, a classic recipe."
+      },
+      {
+        "UserID": "66",
+        "Rating": 0.5,
+        "Comment": "Delicious and easy to make, perfect for dessert."
+      },
+      {
+        "UserID": "53",
+        "Rating": 4.0,
+        "Comment": "Tasty and satisfying, great with a glass of milk."
+      },
+      {
+        "UserID": "21",
+        "Rating": 3.0,
+        "Comment": "Amazing cookies, will make again."
+      },
+      {
+        "UserID": "27",
+        "Rating": 1.5,
+        "Comment": "Simple and delicious, perfect for a sweet treat."
+      },
+      {
+        "UserID": "145",
+        "Rating": 3.5,
+        "Comment": "Best chocolate chip cookies ever!"
+      },
+      {
+        "UserID": "48",
+        "Rating": 4.0,
+        "Comment": "Delicious and easy to make, great for bake sales."
+      }
+    ],
+    "Tags": [
+      "Dessert",
+      "Baking",
+      "Kid-Friendly"
+    ]
+  },
+  {
+    "RecipeID": "3d7cb4ab-94c7-4446-b1a7-1cfcc9c53729",
+    "Title": "Caprese Salad",
+    "Instructions": [
+      "Slice tomatoes and mozzarella cheese into rounds.",
+      "Arrange tomato, cheese, and basil leaves on a plate.",
+      "Drizzle with olive oil, balsamic glaze, and season with salt and pepper."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "10 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "K1Rc8Z",
+        "Quantity": "2"
+      },
+      {
+        "IngredientID": "XlbTBE",
+        "Quantity": "200g"
+      },
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "2 tbsp"
+      }
+    ],
+    "AverageRatings": "4.7",
+    "Reviews": [
+      {
+        "UserID": "86",
+        "Rating": 4.0,
+        "Comment": "Simple and delicious, a classic salad!"
+      },
+      {
+        "UserID": "85",
+        "Rating": 2.5,
+        "Comment": "Great flavor and presentation, perfect for summer."
+      },
+      {
+        "UserID": "38",
+        "Rating": 4.5,
+        "Comment": "Delicious and refreshing, great with crusty bread."
+      },
+      {
+        "UserID": "65",
+        "Rating": 0.5,
+        "Comment": "Tasty and easy to make, perfect for a light lunch."
+      },
+      {
+        "UserID": "59",
+        "Rating": 0.5,
+        "Comment": "Amazing salad, will make again."
+      },
+      {
+        "UserID": "42",
+        "Rating": 3.0,
+        "Comment": "Simple and flavorful, great for a side dish."
+      },
+      {
+        "UserID": "126",
+        "Rating": 1.5,
+        "Comment": "Perfect caprese salad, a family favorite!"
+      },
+      {
+        "UserID": "136",
+        "Rating": 2.5,
+        "Comment": "Delicious and easy to make, great for picnics."
+      }
+    ],
+    "Tags": [
+      "Vegetarian",
+      "Gluten-Free",
+      "Healthy"
+    ]
+  },
+  {
+    "RecipeID": "e711d2d8-4eef-41c5-a26b-3f2fd2784d15",
+    "Title": "Shrimp Scampi",
+    "Instructions": [
+      "Cook pasta according to package instructions.",
+      "In a pan, saut\u00e9 shrimp with garlic, lemon juice, and white wine.",
+      "Toss cooked pasta with shrimp mixture, garnish with parsley and grated Parmesan."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "20 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "40CznT",
+        "Quantity": "1 lb"
+      },
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "1/4 cup"
+      },
+      {
+        "IngredientID": "XtpDpb",
+        "Quantity": "1/4 cup"
+      }
+    ],
+    "AverageRatings": "4.6",
+    "Reviews": [
+      {
+        "UserID": "57",
+        "Rating": 3.0,
+        "Comment": "Delicious and easy to make, great for a special dinner."
+      },
+      {
+        "UserID": "105",
+        "Rating": 3.0,
+        "Comment": "Tasty and flavorful, perfect for a date night."
+      },
+      {
+        "UserID": "77",
+        "Rating": 1.5,
+        "Comment": "Great combination of flavors, a new favorite."
+      },
+      {
+        "UserID": "150",
+        "Rating": 3.0,
+        "Comment": "Simple and delicious, perfect for a quick meal."
+      },
+      {
+        "UserID": "26",
+        "Rating": 2.5,
+        "Comment": "Delicious and satisfying, great with garlic bread."
+      },
+      {
+        "UserID": "101",
+        "Rating": 4.0,
+        "Comment": "Quick and easy to make, perfect for a weeknight dinner."
+      },
+      {
+        "UserID": "24",
+        "Rating": 5.0,
+        "Comment": "Amazing shrimp scampi, will make again!"
+      },
+      {
+        "UserID": "114",
+        "Rating": 3.5,
+        "Comment": "Flavorful and delicious, great with a glass of white wine."
+      }
+    ],
+    "Tags": [
+      "Seafood",
+      "Italian",
+      "Quick & Easy"
+    ]
+  },
+  {
+    "RecipeID": "2caf10a6-aac1-4850-b75a-d41b5d1b6287",
+    "Title": "Mushroom Risotto",
+    "Instructions": [
+      "In a pot, saut\u00e9 onions and garlic in butter until translucent.",
+      "Add arborio rice and cook until lightly toasted.",
+      "Gradually add chicken broth, stirring constantly until rice is creamy.",
+      "Stir in saut\u00e9ed mushrooms, Parmesan cheese, and season with salt and pepper."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "40 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "40CznT",
+        "Quantity": "1 cup"
+      },
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "1/4 cup"
+      },
+      {
+        "IngredientID": "XtpDpb",
+        "Quantity": "1/2 cup"
+      }
+    ],
+    "AverageRatings": "4.8",
+    "Reviews": [
+      {
+        "UserID": "116",
+        "Rating": 1.0,
+        "Comment": "Creamy and flavorful, a classic recipe!"
+      },
+      {
+        "UserID": "106",
+        "Rating": 1.5,
+        "Comment": "Great texture and taste, perfect for a cozy night in."
+      },
+      {
+        "UserID": "99",
+        "Rating": 1.0,
+        "Comment": "Delicious and satisfying, great with a glass of wine."
+      },
+      {
+        "UserID": "146",
+        "Rating": 2.5,
+        "Comment": "Tasty and comforting, a new favorite."
+      },
+      {
+        "UserID": "1",
+        "Rating": 1.5,
+        "Comment": "Creamy and delicious, perfect for a dinner party."
+      },
+      {
+        "UserID": "150",
+        "Rating": 2.5,
+        "Comment": "Simple and flavorful, great for a special occasion."
+      },
+      {
+        "UserID": "148",
+        "Rating": 4.0,
+        "Comment": "Perfect risotto, will make again!"
+      },
+      {
+        "UserID": "101",
+        "Rating": 1.5,
+        "Comment": "Delicious and easy to make, great for a date night."
+      }
+    ],
+    "Tags": [
+      "Italian",
+      "Comfort Food",
+      "Vegetarian"
+    ]
+  },
+  {
+    "RecipeID": "3e784d23-18f1-4792-bd72-e8c938527f7c",
+    "Title": "Beef Tacos",
+    "Instructions": [
+      "In a skillet, cook ground beef with taco seasoning until browned.",
+      "Warm tortillas in the oven or microwave.",
+      "In a skillet, cook chicken with bell peppers and onions until chicken is cooked through.",
+      "Season with fajita seasoning and lime juice, serve with tortillas and toppings."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "20 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "fnPIPI",
+        "Quantity": "1 lb"
+      },
+      {
+        "IngredientID": "K1Rc8Z",
+        "Quantity": "1 red"
+      },
+      {
+        "IngredientID": "XlbTBE",
+        "Quantity": "1 tbsp"
+      }
+    ],
+    "AverageRatings": "4.6",
+    "Reviews": [
+      {
+        "UserID": "90",
+        "Rating": 3.5,
+        "Comment": "Delicious and easy to make, great for a family dinner."
+      },
+      {
+        "UserID": "70",
+        "Rating": 2.5,
+        "Comment": "Tasty and flavorful, perfect for a quick meal."
+      },
+      {
+        "UserID": "142",
+        "Rating": 1.0,
+        "Comment": "Great combination of ingredients, a new favorite."
+      },
+      {
+        "UserID": "45",
+        "Rating": 4.0,
+        "Comment": "Simple and delicious, perfect for a weeknight dinner."
+      },
+      {
+        "UserID": "15",
+        "Rating": 1.5,
+        "Comment": "Delicious and satisfying, great with guacamole."
+      },
+      {
+        "UserID": "73",
+        "Rating": 1.0,
+        "Comment": "Quick and easy to make, perfect for a casual dinner."
+      },
+      {
+        "UserID": "65",
+        "Rating": 2.0,
+        "Comment": "Amazing fajitas, will make again!"
+      },
+      {
+        "UserID": "126",
+        "Rating": 4.5,
+        "Comment": "Flavorful and delicious, great with salsa and sour cream."
+      }
+    ],
+    "Tags": [
+      "Mexican",
+      "Dinner",
+      "Quick & Easy"
+    ]
+  },
+  {
+    "RecipeID": "7b252eda-d238-421b-ab5a-37ab4363ef89",
+    "Title": "Vegetarian Chili",
+    "Instructions": [
+      "In a pot, saut\u00e9 onions, bell peppers, and garlic until softened.",
+      "Add beans, tomatoes, and vegetable broth, simmer for 30 minutes.",
+      "Season with chili powder, cumin, and paprika, serve with toppings."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "40 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "K1Rc8Z",
+        "Quantity": "1 red"
+      },
+      {
+        "IngredientID": "XlbTBE",
+        "Quantity": "1 clove"
+      },
+      {
+        "IngredientID": "fnPIPI",
+        "Quantity": "1 can"
+      }
+    ],
+    "AverageRatings": "4.7",
+    "Reviews": [
+      {
+        "UserID": "92",
+        "Rating": 1.0,
+        "Comment": "Hearty and flavorful, perfect for a cold day!"
+      },
+      {
+        "UserID": "14",
+        "Rating": 5.0,
+        "Comment": "Delicious and satisfying, great with cornbread."
+      }
+    ],
+    "Tags": [
+      "Vegan",
+      "Gluten-Free",
+      "Healthy"
+    ]
+  },
+  {
+    "RecipeID": "98eff3e8-90d4-41d8-8e89-aba8979ad2a4",
+    "Title": "Vegetarian Lasagna",
+    "Instructions": [
+      "Preheat the oven to 375\u00b0F.",
+      "In a baking dish, layer marinara sauce, lasagna noodles, ricotta cheese, and spinach.",
+      "Repeat layers, top with mozzarella cheese, cover with foil, and bake for 45 minutes."
+    ],
+    "ServingSize": "6 servings",
+    "PreparationTime": "1 hour",
+    "IngredientList": [
+      {
+        "IngredientID": "fnPIPI",
+        "Quantity": "1 can"
+      },
+      {
+        "IngredientID": "K1Rc8Z",
+        "Quantity": "1 cup"
+      },
+      {
+        "IngredientID": "XlbTBE",
+        "Quantity": "200g"
+      }
+    ],
+    "AverageRatings": "4.8",
+    "Reviews": [
+      {
+        "UserID": "65",
+        "Rating": 1.0,
+        "Comment": "Creamy and delicious, a family favorite!"
+      },
+      {
+        "UserID": "143",
+        "Rating": 2.5,
+        "Comment": "Great flavor and texture, perfect for a dinner party."
+      }
+    ],
+    "Tags": [
+      "Italian",
+      "Comfort Food",
+      "Vegetarian"
+    ]
+  },
+  {
+    "RecipeID": "b8feda2f-a6b0-4fb5-8cf3-a4ec08c8cc72",
+    "Title": "Vegetarian Pad Thai",
+    "Instructions": [
+      "Cook rice noodles according to package instructions.",
+      "In a wok, saut\u00e9 tofu, bell peppers, and bean sprouts until tender.",
+      "Add cooked noodles, sauce, and peanuts, toss until well combined."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "30 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "J9kL8z",
+        "Quantity": "1 block"
+      },
+      {
+        "IngredientID": "K1Rc8Z",
+        "Quantity": "1 red"
+      },
+      {
+        "IngredientID": "XlbTBE",
+        "Quantity": "1/4 cup"
+      }
+    ],
+    "AverageRatings": "4.4",
+    "Reviews": [
+      {
+        "UserID": "141",
+        "Rating": 1.5,
+        "Comment": "Quick, easy, and delicious!"
+      },
+      {
+        "UserID": "39",
+        "Rating": 4.5,
+        "Comment": "Healthy and flavorful, great for meatless Mondays."
+      }
+    ],
+    "Tags": [
+      "Vegetarian",
+      "Healthy",
+      "Gluten-Free"
+    ]
+  },
+  {
+    "RecipeID": "5a4e7e74-9498-4e8f-8a91-66899dfd726c",
+    "Title": "Vegetarian Enchiladas",
+    "Instructions": [
+      "Preheat the oven to 375\u00b0F.",
+      "In a skillet, saut\u00e9 onions, bell peppers, and corn until tender.",
+      "Fill tortillas with vegetable mixture, roll up, and place in a baking dish.",
+      "Top with enchilada sauce and cheese, cover with foil, and bake for 30 minutes."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "45 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "K1Rc8Z",
+        "Quantity": "1 red"
+      },
+      {
+        "IngredientID": "XlbTBE",
+        "Quantity": "1 cup"
+      },
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "200g"
+      }
+    ],
+    "AverageRatings": "4.6",
+    "Reviews": [
+      {
+        "UserID": "124",
+        "Rating": 3.5,
+        "Comment": "Delicious and easy to make, great for a family dinner."
+      },
+      {
+        "UserID": "141",
+        "Rating": 4.0,
+        "Comment": "Tasty and flavorful, perfect for a quick meal."
+      },
+      {
+        "UserID": "38",
+        "Rating": 4.5,
+        "Comment": "Great combination of ingredients, a new favorite."
+      },
+      {
+        "UserID": "113",
+        "Rating": 1.5,
+        "Comment": "Simple and delicious, perfect for a weeknight dinner."
+      },
+      {
+        "UserID": "60",
+        "Rating": 2.0,
+        "Comment": "Delicious and satisfying, great with guacamole."
+      },
+      {
+        "UserID": "72",
+        "Rating": 1.0,
+        "Comment": "Quick and easy to make, perfect for a casual dinner."
+      },
+      {
+        "UserID": "101",
+        "Rating": 2.5,
+        "Comment": "Amazing fajitas, will make again!"
+      },
+      {
+        "UserID": "149",
+        "Rating": 4.5,
+        "Comment": "Flavorful and delicious, great with salsa and sour cream."
+      }
+    ],
+    "Tags": [
+      "Mexican",
+      "Dinner",
+      "Vegetarian"
+    ]
+  },
+  {
+    "RecipeID": "25e60bbe-15ab-4b3d-b88f-325d80ec6907",
+    "Title": "Vegetarian Stuffed Peppers",
+    "Instructions": [
+      "Preheat the oven to 375\u00b0F.",
+      "In a skillet, saut\u00e9 onions, garlic, and zucchini until tender.",
+      "Add cooked rice, beans, tomatoes, and spices, cook for 5 minutes.",
+      "Fill bell peppers with mixture, top with cheese, cover with foil, and bake for 30 minutes."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "45 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "K1Rc8Z",
+        "Quantity": "1 red"
+      },
+      {
+        "IngredientID": "XlbTBE",
+        "Quantity": "1 clove"
+      },
+      {
+        "IngredientID": "fnPIPI",
+        "Quantity": "1 can"
+      }
+    ],
+    "AverageRatings": "4.7",
+    "Reviews": [
+      {
+        "UserID": "17",
+        "Rating": 4.0,
+        "Comment": "Hearty and flavorful, perfect for a vegetarian meal!"
+      },
+      {
+        "UserID": "117",
+        "Rating": 1.5,
+        "Comment": "Delicious and satisfying, great with a side salad."
+      }
+    ],
+    "Tags": [
+      "Vegetarian",
+      "Healthy",
+      "Gluten-Free"
+    ]
+  },
+  {
+    "RecipeID": "8d801835-2766-4414-b2ab-89982d217bd1",
+    "Title": "Vegetarian Lentil Soup",
+    "Instructions": [
+      "In a pot, saut\u00e9 onions, carrots, and celery until softened.",
+      "Add lentils, tomatoes, vegetable broth, and spices, simmer for 30 minutes.",
+      "Season with salt and pepper, serve with crusty bread."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "45 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "K1Rc8Z",
+        "Quantity": "1 red"
+      },
+      {
+        "IngredientID": "XlbTBE",
+        "Quantity": "1 cup"
+      },
+      {
+        "IngredientID": "fnPIPI",
+        "Quantity": "1 can"
+      }
+    ],
+    "AverageRatings": "4.6",
+    "Reviews": [
+      {
+        "UserID": "134",
+        "Rating": 0.5,
+        "Comment": "Hearty and flavorful, perfect for a cold day!"
+      },
+      {
+        "UserID": "69",
+        "Rating": 4.5,
+        "Comment": "Delicious and satisfying, great with a side salad."
+      }
+    ],
+    "Tags": [
+      "Vegetarian",
+      "Healthy",
+      "Comfort Food"
+    ]
+  },
+  {
+    "RecipeID": "d8e9adca-a855-434b-849f-bc7c15195301",
+    "Title": "Vegan Buddha Bowl",
+    "Instructions": [
+      "Cook quinoa according to package instructions.",
+      "In a bowl, arrange quinoa, roasted sweet potatoes, chickpeas, and avocado.",
+      "Drizzle with tahini dressing, sprinkle with sesame seeds, and season with salt and pepper."
+    ],
+    "ServingSize": "2 servings",
+    "PreparationTime": "30 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "40CznT",
+        "Quantity": "1 cup"
+      },
+      {
+        "IngredientID": "K1Rc8Z",
+        "Quantity": "1"
+      },
+      {
+        "IngredientID": "XlbTBE",
+        "Quantity": "1/4 cup"
+      }
+    ],
+    "AverageRatings": "4.7",
+    "Reviews": [
+      {
+        "UserID": "97",
+        "Rating": 4.0,
+        "Comment": "Healthy and delicious, great for a light meal!"
+      },
+      {
+        "UserID": "55",
+        "Rating": 0.5,
+        "Comment": "Tasty and satisfying, perfect for a quick lunch."
+      }
+    ],
+    "Tags": [
+      "Vegan",
+      "Gluten-Free",
+      "Healthy"
+    ]
+  },
+  {
+    "RecipeID": "30a57154-63c2-4e26-8bd5-0a55828cae62",
+    "Title": "Vegan Tofu Stir-Fry",
+    "Instructions": [
+      "In a wok, heat oil and saut\u00e9 garlic and ginger until fragrant.",
+      "Add tofu, bell peppers, and snap peas, stir-fry until vegetables are tender.",
+      "Season with soy sauce, sesame oil, and chili flakes."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "30 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "J9kL8z",
+        "Quantity": "1 block"
+      },
+      {
+        "IngredientID": "K1Rc8Z",
+        "Quantity": "1 red"
+      },
+      {
+        "IngredientID": "XlbTBE",
+        "Quantity": "2 tbsp"
+      }
+    ],
+    "AverageRatings": "4.4",
+    "Reviews": [
+      {
+        "UserID": "21",
+        "Rating": 2.5,
+        "Comment": "Quick, easy, and delicious!"
+      },
+      {
+        "UserID": "9",
+        "Rating": 2.0,
+        "Comment": "Healthy and flavorful, great for meatless Mondays."
+      }
+    ],
+    "Tags": [
+      "Vegan",
+      "Healthy",
+      "Gluten-Free"
+    ]
+  },
+  {
+    "RecipeID": "1d12348f-a7f7-4816-bccb-d7381446f8a1",
+    "Title": "Vegan Lentil Curry",
+    "Instructions": [
+      "In a pot, saut\u00e9 onions, garlic, and ginger until fragrant.",
+      "Add lentils, tomatoes, coconut milk, and spices, simmer for 30 minutes.",
+      "Season with salt and pepper, serve with rice or naan."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "45 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "K1Rc8Z",
+        "Quantity": "1 red"
+      },
+      {
+        "IngredientID": "XlbTBE",
+        "Quantity": "1 clove"
+      },
+      {
+        "IngredientID": "fnPIPI",
+        "Quantity": "1 can"
+      }
+    ],
+    "AverageRatings": "4.6",
+    "Reviews": [
+      {
+        "UserID": "135",
+        "Rating": 2.0,
+        "Comment": "Hearty and flavorful, perfect for a cold day!"
+      },
+      {
+        "UserID": "25",
+        "Rating": 4.5,
+        "Comment": "Delicious and satisfying, great with naan."
+      }
+    ],
+    "Tags": [
+      "Vegan",
+      "Healthy",
+      "Comfort Food"
+    ]
+  },
+  {
+    "RecipeID": "89ba7c5d-58d9-46af-bb8e-7c3bbb5d2476",
+    "Title": "Vegan Chickpea Salad",
+    "Instructions": [
+      "In a bowl, combine chickpeas, cucumbers, tomatoes, red onion, and parsley.",
+      "Dress with olive oil and lemon juice, season with salt and pepper."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "15 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "fnPIPI",
+        "Quantity": "1 can"
+      },
+      {
+        "IngredientID": "K1Rc8Z",
+        "Quantity": "1"
+      },
+      {
+        "IngredientID": "XlbTBE",
+        "Quantity": "3 tbsp"
+      }
+    ],
+    "AverageRatings": "4.5",
+    "Reviews": [
+      {
+        "UserID": "38",
+        "Rating": 1.5,
+        "Comment": "Refreshing and healthy."
+      },
+      {
+        "UserID": "68",
+        "Rating": 3.5,
+        "Comment": "Nice texture and taste, great for a light lunch."
+      }
+    ],
+    "Tags": [
+      "Vegan",
+      "Gluten-Free",
+      "Healthy"
+    ]
+  },
+  {
+    "RecipeID": "45a7527e-e6b0-46e5-bf24-254059dfe2f0",
+    "Title": "Vegan Black Bean Tacos",
+    "Instructions": [
+      "In a skillet, cook black beans with taco seasoning until heated through.",
+      "Warm tortillas in the oven or microwave.",
+      "Fill tortillas with black bean mixture, top with avocado, salsa, and cilantro."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "20 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "fnPIPI",
+        "Quantity": "1 can"
+      },
+      {
+        "IngredientID": "K1Rc8Z",
+        "Quantity": "1"
+      },
+      {
+        "IngredientID": "XlbTBE",
+        "Quantity": "1/4 cup"
+      }
+    ],
+    "AverageRatings": "4.6",
+    "Reviews": [
+      {
+        "UserID": "76",
+        "Rating": 0.5,
+        "Comment": "Delicious and easy to make, great for a vegan meal!"
+      },
+      {
+        "UserID": "86",
+        "Rating": 3.0,
+        "Comment": "Tasty and flavorful, perfect for a quick dinner."
+      }
+    ],
+    "Tags": [
+      "Vegan",
+      "Mexican",
+      "Quick & Easy"
+    ]
+  },
+  {
+    "RecipeID": "6a010f34-51da-4be8-b2fe-dc67e42ccc7f",
+    "Title": "Gluten-Free Banana Bread",
+    "Instructions": [
+      "Preheat the oven to 350\u00b0F.",
+      "In a bowl, mash bananas and mix with eggs, sugar, and vanilla.",
+      "Add flour, baking soda, and salt, mix until combined.",
+      "Pour batter into a loaf pan and bake for 50-60 minutes."
+    ],
+    "ServingSize": "1 loaf",
+    "PreparationTime": "1 hour 10 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "UmQnD4",
+        "Quantity": "3 ripe"
+      },
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "2"
+      },
+      {
+        "IngredientID": "K9klQl",
+        "Quantity": "1 cup"
+      }
+    ],
+    "AverageRatings": "4.8",
+    "Reviews": [
+      {
+        "UserID": "142",
+        "Rating": 3.0,
+        "Comment": "Moist and delicious, great for breakfast!"
+      },
+      {
+        "UserID": "89",
+        "Rating": 3.5,
+        "Comment": "Great flavor and texture, perfect with coffee."
+      }
+    ],
+    "Tags": [
+      "Gluten-Free",
+      "Baking",
+      "Breakfast"
+    ]
+  },
+  {
+    "RecipeID": "00daa101-3b6a-46b2-a47a-c78a51976ba9",
+    "Title": "Gluten-Free Pancakes",
+    "Instructions": [
+      "In a bowl, whisk together flour, sugar, baking powder, and salt.",
+      "Add milk, eggs, and oil, mix until smooth.",
+      "Cook pancakes on a griddle until golden brown."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "20 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "K9klQl",
+        "Quantity": "1 cup"
+      },
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "2"
+      },
+      {
+        "IngredientID": "XtpDpb",
+        "Quantity": "2 tbsp"
+      }
+    ],
+    "AverageRatings": "4.3",
+    "Reviews": [
+      {
+        "UserID": "116",
+        "Rating": 1.5,
+        "Comment": "Perfect for a weekend brunch!"
+      },
+      {
+        "UserID": "93",
+        "Rating": 3.5,
+        "Comment": "Delicious and fluffy, great with maple syrup."
+      }
+    ],
+    "Tags": [
+      "Gluten-Free",
+      "Breakfast",
+      "Kid-Friendly"
+    ]
+  },
+  {
+    "RecipeID": "78f4301f-a33f-4ffb-b0a8-019f288a56ab",
+    "Title": "Gluten-Free Chocolate Cake",
+    "Instructions": [
+      "Preheat the oven to 350\u00b0F.",
+      "In a bowl, whisk together flour, cocoa powder, sugar, and baking soda.",
+      "Add eggs, oil, and vanilla, mix until smooth.",
+      "Pour batter into a cake pan and bake for 30-35 minutes."
+    ],
+    "ServingSize": "1 cake",
+    "PreparationTime": "45 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "K9klQl",
+        "Quantity": "1 cup"
+      },
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "2"
+      },
+      {
+        "IngredientID": "XtpDpb",
+        "Quantity": "1/2 cup"
+      }
+    ],
+    "AverageRatings": "4.7",
+    "Reviews": [
+      {
+        "UserID": "117",
+        "Rating": 0.5,
+        "Comment": "Rich and decadent, perfect for a special occasion!"
+      },
+      {
+        "UserID": "43",
+        "Rating": 1.5,
+        "Comment": "Great flavor and texture, a new favorite."
+      }
+    ],
+    "Tags": [
+      "Gluten-Free",
+      "Dessert",
+      "Baking"
+    ]
+  },
+  {
+    "RecipeID": "009e7428-a99a-481a-ac23-c2029e51c058",
+    "Title": "Gluten-Free Chicken Tenders",
+    "Instructions": [
+      "Preheat the oven to 400\u00b0F.",
+      "In a bowl, mix together almond flour, paprika, garlic powder, and salt.",
+      "Dip chicken tenders in beaten eggs, then coat with almond flour mixture.",
+      "Place on a baking sheet and bake for 20-25 minutes."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "30 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "1 cup"
+      },
+      {
+        "IngredientID": "XtpDpb",
+        "Quantity": "1 tsp"
+      },
+      {
+        "IngredientID": "K9klQl",
+        "Quantity": "1/2 tsp"
+      }
+    ],
+    "AverageRatings": "4.6",
+    "Reviews": [
+      {
+        "UserID": "75",
+        "Rating": 2.0,
+        "Comment": "Crispy and delicious, great with honey mustard!"
+      },
+      {
+        "UserID": "119",
+        "Rating": 3.0,
+        "Comment": "Tasty and flavorful, perfect for a family dinner."
+      }
+    ],
+    "Tags": [
+      "Gluten-Free",
+      "Dinner",
+      "Kid-Friendly"
+    ]
+  },
+  {
+    "RecipeID": "ce4d5448-1d12-48d9-9eff-a49c9c95dd5b",
+    "Title": "Gluten-Free Pizza",
+    "Instructions": [
+      "Preheat the oven to 450\u00b0F.",
+      "In a bowl, mix together almond flour, baking powder, and salt.",
+      "Add eggs and oil, mix until a dough forms.",
+      "Press dough onto a baking sheet, top with sauce, cheese, and toppings.",
+      "Bake for 15-20 minutes until crust is golden brown."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "30 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "1 cup"
+      },
+      {
+        "IngredientID": "XtpDpb",
+        "Quantity": "1 tsp"
+      },
+      {
+        "IngredientID": "K9klQl",
+        "Quantity": "1/2 tsp"
+      }
+    ],
+    "AverageRatings": "4.7",
+    "Reviews": [
+      {
+        "UserID": "31",
+        "Rating": 2.5,
+        "Comment": "Delicious and easy to make, great for a pizza night!"
+      },
+      {
+        "UserID": "127",
+        "Rating": 2.0,
+        "Comment": "Tasty and flavorful, perfect for a family dinner."
+      }
+    ],
+    "Tags": [
+      "Gluten-Free",
+      "Dinner",
+      "Kid-Friendly"
+    ]
+  },
+  {
+    "RecipeID": "183790b0-50e9-4922-a15b-61a638c3ffc9",
+    "Title": "Gluten-Free Chocolate Chip Cookies",
+    "Instructions": [
+      "Preheat the oven to 350\u00b0F.",
+      "In a bowl, cream butter and sugars until light and fluffy.",
+      "Add eggs and vanilla, then mix in flour, baking soda, and chocolate chips.",
+      "Drop spoonfuls of dough onto a baking sheet and bake for 10-12 minutes."
+    ],
+    "ServingSize": "24 cookies",
+    "PreparationTime": "30 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "1 cup"
+      },
+      {
+        "IngredientID": "XtpDpb",
+        "Quantity": "1 cup"
+      },
+      {
+        "IngredientID": "K9klQl",
+        "Quantity": "2"
+      }
+    ],
+    "AverageRatings": "4.8",
+    "Reviews": [
+      {
+        "UserID": "117",
+        "Rating": 3.5,
+        "Comment": "Perfectly chewy and delicious!"
+      },
+      {
+        "UserID": "49",
+        "Rating": 1.0,
+        "Comment": "Great flavor and texture, a classic recipe."
+      }
+    ],
+    "Tags": [
+      "Gluten-Free",
+      "Dessert",
+      "Baking"
+    ]
+  },
+  {
+    "RecipeID": "56ddb954-9ab0-4a07-acba-0e62b7aed486",
+    "Title": "Gluten-Free Chicken Alfredo",
+    "Instructions": [
+      "Cook pasta according to package instructions.",
+      "In a pan, cook chicken with garlic and mushrooms until chicken is cooked through.",
+      "Add cream, Parmesan cheese, and season with salt and pepper.",
+      "Toss cooked pasta with chicken mixture, garnish with parsley."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "30 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "40CznT",
+        "Quantity": "1 lb"
+      },
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "1/2 cup"
+      },
+      {
+        "IngredientID": "XtpDpb",
+        "Quantity": "1/2 cup"
+      }
+    ],
+    "AverageRatings": "4.6",
+    "Reviews": [
+      {
+        "UserID": "104",
+        "Rating": 3.5,
+        "Comment": "Creamy and delicious, a classic recipe!"
+      },
+      {
+        "UserID": "121",
+        "Rating": 2.5,
+        "Comment": "Great flavor and texture, perfect for a cozy night in."
+      }
+    ],
+    "Tags": [
+      "Gluten-Free",
+      "Dinner",
+      "Italian"
+    ]
+  },
+  {
+    "RecipeID": "2a4da221-0ecf-499e-8cd8-322e9b4fcbb3",
+    "Title": "Gluten-Free Lemon Bars",
+    "Instructions": [
+      "Preheat the oven to 350\u00b0F.",
+      "In a bowl, mix together almond flour, sugar, and salt.",
+      "Add melted butter, mix until a dough forms.",
+      "Press dough into a baking dish, bake for 15 minutes.",
+      "In a bowl, whisk together eggs, sugar, lemon juice, and zest.",
+      "Pour lemon mixture over crust, bake for 20 minutes.",
+      "Cool, then dust with powdered sugar and cut into bars."
+    ],
+    "ServingSize": "12 bars",
+    "PreparationTime": "1 hour",
+    "IngredientList": [
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "1 cup"
+      },
+      {
+        "IngredientID": "XtpDpb",
+        "Quantity": "1 cup"
+      },
+      {
+        "IngredientID": "K9klQl",
+        "Quantity": "1/2 cup"
+      }
+    ],
+    "AverageRatings": "4.7",
+    "Reviews": [
+      {
+        "UserID": "59",
+        "Rating": 2.0,
+        "Comment": "Tangy and sweet, perfect for a summer dessert!"
+      },
+      {
+        "UserID": "150",
+        "Rating": 4.5,
+        "Comment": "Great flavor and texture, a new favorite."
+      }
+    ],
+    "Tags": [
+      "Gluten-Free",
+      "Dessert",
+      "Baking"
+    ]
+  },
+  {
+    "RecipeID": "c63c9628-c8cb-437c-82be-45e7aeec9131",
+    "Title": "Gluten-Free Chicken Piccata",
+    "Instructions": [
+      "Cook pasta according to package instructions.",
+      "In a pan, cook chicken with garlic and capers until chicken is cooked through.",
+      "Add lemon juice, chicken broth, and butter, simmer for 5 minutes.",
+      "Toss cooked pasta with chicken mixture, garnish with parsley."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "30 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "40CznT",
+        "Quantity": "1 lb"
+      },
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "1/4 cup"
+      },
+      {
+        "IngredientID": "XtpDpb",
+        "Quantity": "1/4 cup"
+      }
+    ],
+    "AverageRatings": "4.6",
+    "Reviews": [
+      {
+        "UserID": "138",
+        "Rating": 2.0,
+        "Comment": "Tangy and delicious, a classic recipe!"
+      },
+      {
+        "UserID": "13",
+        "Rating": 2.5,
+        "Comment": "Great flavor and texture, perfect for a cozy night in."
+      }
+    ],
+    "Tags": [
+      "Gluten-Free",
+      "Dinner",
+      "Italian"
+    ]
+  },
+  {
+    "RecipeID": "9d135a4d-5047-4b29-87af-0e486d47c35a",
+    "Title": "Dairy-Free Mac and Cheese",
+    "Instructions": [
+      "Cook pasta according to package instructions.",
+      "In a pot, whisk together almond milk, nutritional yeast, and spices.",
+      "Add cooked pasta, stir until sauce is thickened.",
+      "Season with salt and pepper, serve with breadcrumbs."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "30 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "40CznT",
+        "Quantity": "1 lb"
+      },
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "2 cups"
+      },
+      {
+        "IngredientID": "XtpDpb",
+        "Quantity": "1/4 cup"
+      }
+    ],
+    "AverageRatings": "4.7",
+    "Reviews": [
+      {
+        "UserID": "114",
+        "Rating": 2.0,
+        "Comment": "Creamy and delicious, great for a dairy-free meal!"
+      },
+      {
+        "UserID": "141",
+        "Rating": 4.5,
+        "Comment": "Tasty and flavorful, perfect for a quick dinner."
+      }
+    ],
+    "Tags": [
+      "Dairy-Free",
+      "Dinner",
+      "Comfort Food"
+    ]
+  },
+  {
+    "RecipeID": "3710a453-8299-402c-a927-1907ef0aeec2",
+    "Title": "Dairy-Free Chocolate Pudding",
+    "Instructions": [
+      "In a pot, whisk together coconut milk, sugar, cocoa powder, and cornstarch.",
+      "Cook over medium heat until thickened, then stir in vanilla.",
+      "Pour into serving dishes, chill for 2 hours until set."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "20 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "2 cups"
+      },
+      {
+        "IngredientID": "XtpDpb",
+        "Quantity": "1/2 cup"
+      },
+      {
+        "IngredientID": "K9klQl",
+        "Quantity": "1/4 cup"
+      }
+    ],
+    "AverageRatings": "4.5",
+    "Reviews": [
+      {
+        "UserID": "100",
+        "Rating": 3.5,
+        "Comment": "Rich and creamy, perfect for a dairy-free dessert!"
+      },
+      {
+        "UserID": "135",
+        "Rating": 2.5,
+        "Comment": "Delicious and satisfying, great with coconut whipped cream."
+      }
+    ],
+    "Tags": [
+      "Dairy-Free",
+      "Dessert",
+      "Vegan"
+    ]
+  },
+  {
+    "RecipeID": "97cc2af7-e6bb-4599-8825-ec4f92cc9b7e",
+    "Title": "Dairy-Free Banana Ice Cream",
+    "Instructions": [
+      "In a blender, combine frozen bananas, almond milk, and vanilla.",
+      "Blend until smooth and creamy, adding more milk if needed.",
+      "Serve immediately as soft-serve or freeze for 2 hours for a firmer texture."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "10 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "UmQnD4",
+        "Quantity": "3 frozen"
+      },
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "1/2 cup"
+      },
+      {
+        "IngredientID": "XtpDpb",
+        "Quantity": "1 tsp"
+      }
+    ],
+    "AverageRatings": "4.6",
+    "Reviews": [
+      {
+        "UserID": "101",
+        "Rating": 0.5,
+        "Comment": "Creamy and delicious, great for a dairy-free treat!"
+      },
+      {
+        "UserID": "92",
+        "Rating": 2.5,
+        "Comment": "Tasty and satisfying, perfect for a summer dessert."
+      }
+    ],
+    "Tags": [
+      "Dairy-Free",
+      "Dessert",
+      "Healthy"
+    ]
+  },
+  {
+    "RecipeID": "9dc851de-2936-46d5-b811-cca07e455f14",
+    "Title": "Dairy-Free Chicken Curry",
+    "Instructions": [
+      "In a pot, saut\u00e9 onions, garlic, and ginger until fragrant.",
+      "Add chicken, curry powder, coconut milk, and vegetables, simmer for 20 minutes.",
+      "Season with salt and pepper, serve with rice or naan."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "45 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "40CznT",
+        "Quantity": "1 lb"
+      },
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "1 can"
+      },
+      {
+        "IngredientID": "XtpDpb",
+        "Quantity": "1 tbsp"
+      }
+    ],
+    "AverageRatings": "4.7",
+    "Reviews": [
+      {
+        "UserID": "95",
+        "Rating": 3.0,
+        "Comment": "Creamy and flavorful, perfect for a dairy-free meal!"
+      },
+      {
+        "UserID": "84",
+        "Rating": 3.0,
+        "Comment": "Great combination of spices, a new favorite."
+      }
+    ],
+    "Tags": [
+      "Dairy-Free",
+      "Dinner",
+      "Gluten-Free"
+    ]
+  },
+  {
+    "RecipeID": "9d2b2061-d6a8-43fc-a9a1-1937946dee07",
+    "Title": "Dairy-Free Blueberry Muffins",
+    "Instructions": [
+      "Preheat the oven to 375\u00b0F.",
+      "In a bowl, whisk together flour, sugar, baking powder, and salt.",
+      "In another bowl, mix together almond milk, oil, and vanilla.",
+      "Combine wet and dry ingredients, then fold in blueberries.",
+      "Spoon batter into muffin cups and bake for 20-25 minutes."
+    ],
+    "ServingSize": "12 muffins",
+    "PreparationTime": "30 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "K9klQl",
+        "Quantity": "2 cups"
+      },
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "1 cup"
+      },
+      {
+        "IngredientID": "XtpDpb",
+        "Quantity": "1/4 cup"
+      }
+    ],
+    "AverageRatings": "4.8",
+    "Reviews": [
+      {
+        "UserID": "57",
+        "Rating": 4.0,
+        "Comment": "Moist and delicious, great for a dairy-free breakfast!"
+      },
+      {
+        "UserID": "74",
+        "Rating": 3.0,
+        "Comment": "Great flavor and texture, perfect with coffee."
+      }
+    ],
+    "Tags": [
+      "Dairy-Free",
+      "Breakfast",
+      "Baking"
+    ]
+  },
+  {
+    "RecipeID": "5b0180e0-5345-4793-b052-7f1c740e5fbb",
+    "Title": "Dairy-Free Vegetable Stir-Fry",
+    "Instructions": [
+      "In a wok, heat oil and saut\u00e9 garlic and ginger until fragrant.",
+      "Add vegetables and tofu, stir-fry until vegetables are tender.",
+      "Season with soy sauce, sesame oil, and chili flakes."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "30 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "J9kL8z",
+        "Quantity": "1 block"
+      },
+      {
+        "IngredientID": "K1Rc8Z",
+        "Quantity": "1 red"
+      },
+      {
+        "IngredientID": "XlbTBE",
+        "Quantity": "2 tbsp"
+      }
+    ],
+    "AverageRatings": "4.4",
+    "Reviews": [
+      {
+        "UserID": "97",
+        "Rating": 3.5,
+        "Comment": "Quick, easy, and delicious!"
+      },
+      {
+        "UserID": "2",
+        "Rating": 4.5,
+        "Comment": "Healthy and flavorful, great for a dairy-free meal."
+      }
+    ],
+    "Tags": [
+      "Dairy-Free",
+      "Healthy",
+      "Vegan"
+    ]
+  },
+  {
+    "RecipeID": "7bed335b-8903-4be4-ba58-292c0a45c862",
+    "Title": "Dairy-Free Chocolate Chip Cookies",
+    "Instructions": [
+      "Preheat the oven to 350\u00b0F.",
+      "In a bowl, cream coconut oil and sugars until light and fluffy.",
+      "Add eggs and vanilla, then mix in flour, baking soda, and chocolate chips.",
+      "Drop spoonfuls of dough onto a baking sheet and bake for 10-12 minutes."
+    ],
+    "ServingSize": "24 cookies",
+    "PreparationTime": "30 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "1 cup"
+      },
+      {
+        "IngredientID": "XtpDpb",
+        "Quantity": "1 cup"
+      },
+      {
+        "IngredientID": "K9klQl",
+        "Quantity": "2"
+      }
+    ],
+    "AverageRatings": "4.8",
+    "Reviews": [
+      {
+        "UserID": "102",
+        "Rating": 3.0,
+        "Comment": "Perfectly chewy and delicious!"
+      },
+      {
+        "UserID": "52",
+        "Rating": 1.0,
+        "Comment": "Great flavor and texture, a classic recipe."
+      }
+    ],
+    "Tags": [
+      "Dairy-Free",
+      "Dessert",
+      "Baking"
+    ]
+  },
+  {
+    "RecipeID": "a274df75-fa7b-41fd-b551-b67668f35b9e",
+    "Title": "Dairy-Free Chicken Alfredo",
+    "Instructions": [
+      "Cook pasta according to package instructions.",
+      "In a pan, cook chicken with garlic and mushrooms until chicken is cooked through.",
+      "Add cashew cream, nutritional yeast, and season with salt and pepper.",
+      "Toss cooked pasta with chicken mixture, garnish with parsley."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "30 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "40CznT",
+        "Quantity": "1 lb"
+      },
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "1/2 cup"
+      },
+      {
+        "IngredientID": "XtpDpb",
+        "Quantity": "1/2 cup"
+      }
+    ],
+    "AverageRatings": "4.6",
+    "Reviews": [
+      {
+        "UserID": "61",
+        "Rating": 1.0,
+        "Comment": "Creamy and delicious, a classic recipe!"
+      },
+      {
+        "UserID": "22",
+        "Rating": 2.0,
+        "Comment": "Great flavor and texture, perfect for a cozy night in."
+      }
+    ],
+    "Tags": [
+      "Dairy-Free",
+      "Dinner",
+      "Italian"
+    ]
+  },
+  {
+    "RecipeID": "f6d0149d-c2bb-43e1-942b-694bf9952b0b",
+    "Title": "Nut-Free Granola Bars",
+    "Instructions": [
+      "Preheat the oven to 350\u00b0F.",
+      "In a bowl, mix together oats, seeds, dried fruit, and spices.",
+      "In a saucepan, heat honey and oil until melted, then pour over oat mixture.",
+      "Press mixture into a baking dish, bake for 20-25 minutes.",
+      "Cool, then cut into bars and store in an airtight container."
+    ],
+    "ServingSize": "12 bars",
+    "PreparationTime": "30 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "2 cups"
+      },
+      {
+        "IngredientID": "XtpDpb",
+        "Quantity": "1/4 cup"
+      },
+      {
+        "IngredientID": "K9klQl",
+        "Quantity": "1/4 cup"
+      }
+    ],
+    "AverageRatings": "4.7",
+    "Reviews": [
+      {
+        "UserID": "55",
+        "Rating": 4.5,
+        "Comment": "Crunchy and delicious, great for a nut-free snack!"
+      },
+      {
+        "UserID": "137",
+        "Rating": 3.0,
+        "Comment": "Tasty and satisfying, perfect for a quick breakfast."
+      }
+    ],
+    "Tags": [
+      "Nut-Free",
+      "Snack",
+      "Breakfast"
+    ]
+  },
+  {
+    "RecipeID": "3721f8ac-920f-42e5-bdcd-6533fe6b5355",
+    "Title": "Nut-Free Pesto Pasta",
+    "Instructions": [
+      "Cook pasta according to package instructions.",
+      "In a blender, combine basil, garlic, lemon juice, and olive oil.",
+      "Toss cooked pasta with pesto, cherry tomatoes, and Parmesan cheese.",
+      "Season with salt and pepper, serve with a side salad."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "20 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "40CznT",
+        "Quantity": "1 lb"
+      },
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "2 cups"
+      },
+      {
+        "IngredientID": "XtpDpb",
+        "Quantity": "1/4 cup"
+      }
+    ],
+    "AverageRatings": "4.6",
+    "Reviews": [
+      {
+        "UserID": "29",
+        "Rating": 2.0,
+        "Comment": "Fresh and flavorful, perfect for a nut-free meal!"
+      },
+      {
+        "UserID": "52",
+        "Rating": 4.0,
+        "Comment": "Great combination of ingredients, a new favorite."
+      }
+    ],
+    "Tags": [
+      "Nut-Free",
+      "Dinner",
+      "Italian"
+    ]
+  },
+  {
+    "RecipeID": "96c0b827-6a9e-455d-a522-2717b5483493",
+    "Title": "Nut-Free Banana Bread",
+    "Instructions": [
+      "Preheat the oven to 350\u00b0F.",
+      "In a bowl, mash bananas and mix with eggs, sugar, and oil.",
+      "Add flour, baking soda, and salt, mix until combined.",
+      "Pour batter into a loaf pan and bake for 50-60 minutes."
+    ],
+    "ServingSize": "1 loaf",
+    "PreparationTime": "1 hour 10 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "UmQnD4",
+        "Quantity": "3 ripe"
+      },
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "2"
+      },
+      {
+        "IngredientID": "K9klQl",
+        "Quantity": "1 cup"
+      }
+    ],
+    "AverageRatings": "4.8",
+    "Reviews": [
+      {
+        "UserID": "97",
+        "Rating": 2.0,
+        "Comment": "Moist and delicious, great for a nut-free breakfast!"
+      },
+      {
+        "UserID": "33",
+        "Rating": 4.0,
+        "Comment": "Great flavor and texture, perfect with coffee."
+      }
+    ],
+    "Tags": [
+      "Nut-Free",
+      "Baking",
+      "Breakfast"
+    ]
+  },
+  {
+    "RecipeID": "e773461b-a36b-4860-8965-72f7bd094e8a",
+    "Title": "Nut-Free Chicken Tenders",
+    "Instructions": [
+      "Preheat the oven to 400\u00b0F.",
+      "In a bowl, mix together breadcrumbs, paprika, garlic powder, and salt.",
+      "Dip chicken tenders in beaten eggs, then coat with breadcrumb mixture.",
+      "Place on a baking sheet and bake for 20-25 minutes."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "30 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "1 cup"
+      },
+      {
+        "IngredientID": "XtpDpb",
+        "Quantity": "1 tsp"
+      },
+      {
+        "IngredientID": "K9klQl",
+        "Quantity": "1/2 tsp"
+      }
+    ],
+    "AverageRatings": "4.6",
+    "Reviews": [
+      {
+        "UserID": "40",
+        "Rating": 4.5,
+        "Comment": "Crispy and delicious, great with honey mustard!"
+      },
+      {
+        "UserID": "68",
+        "Rating": 4.5,
+        "Comment": "Tasty and flavorful, perfect for a family dinner."
+      }
+    ],
+    "Tags": [
+      "Nut-Free",
+      "Dinner",
+      "Kid-Friendly"
+    ]
+  },
+  {
+    "RecipeID": "63c48778-37a0-448d-9a91-16becabb4263",
+    "Title": "Nut-Free Chocolate Cake",
+    "Instructions": [
+      "Preheat the oven to 350\u00b0F.",
+      "In a bowl, whisk together flour, cocoa powder, sugar, and baking soda.",
+      "Add eggs, oil, and vanilla, mix until smooth.",
+      "Pour batter into a cake pan and bake for 30-35 minutes."
+    ],
+    "ServingSize": "1 cake",
+    "PreparationTime": "45 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "K9klQl",
+        "Quantity": "1 cup"
+      },
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "2"
+      },
+      {
+        "IngredientID": "XtpDpb",
+        "Quantity": "1/2 cup"
+      }
+    ],
+    "AverageRatings": "4.7",
+    "Reviews": [
+      {
+        "UserID": "71",
+        "Rating": 1.0,
+        "Comment": "Rich and decadent, perfect for a special occasion!"
+      },
+      {
+        "UserID": "46",
+        "Rating": 4.0,
+        "Comment": "Great flavor and texture, a new favorite."
+      }
+    ],
+    "Tags": [
+      "Nut-Free",
+      "Dessert",
+      "Baking"
+    ]
+  },
+  {
+    "RecipeID": "10be2b98-2edd-492c-b377-a8fb15dce7a7",
+    "Title": "Nut-Free Pizza",
+    "Instructions": [
+      "Preheat the oven to 450\u00b0F.",
+      "In a bowl, mix together flour, baking powder, and salt.",
+      "Add eggs and oil, mix until a dough forms.",
+      "Press dough onto a baking sheet, top with sauce, cheese, and toppings.",
+      "Bake for 15-20 minutes until crust is golden brown."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "30 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "1 cup"
+      },
+      {
+        "IngredientID": "XtpDpb",
+        "Quantity": "1 tsp"
+      },
+      {
+        "IngredientID": "K9klQl",
+        "Quantity": "1/2 tsp"
+      }
+    ],
+    "AverageRatings": "4.7",
+    "Reviews": [
+      {
+        "UserID": "4",
+        "Rating": 4.0,
+        "Comment": "Delicious and easy to make, great for a pizza night!"
+      },
+      {
+        "UserID": "141",
+        "Rating": 1.5,
+        "Comment": "Tasty and flavorful, perfect for a family dinner."
+      },
+      {
+        "UserID": "29",
+        "Rating": 4.5,
+        "Comment": "Great flavor and texture, a new favorite."
+      }
+    ],
+    "Tags": [
+      "Nut-Free",
+      "Dinner",
+      "Kid-Friendly"
+    ]
+  },
+  {
+    "RecipeID": "6ff038f8-64b5-4ade-808c-778ecf97d859",
+    "Title": "Nut-Free Chocolate Chip Cookies",
+    "Instructions": [
+      "Preheat the oven to 350\u00b0F.",
+      "In a bowl, cream butter and sugars until light and fluffy.",
+      "Add eggs and vanilla, then mix in flour, baking soda, and chocolate chips.",
+      "Drop spoonfuls of dough onto a baking sheet and bake for 10-12 minutes."
+    ],
+    "ServingSize": "24 cookies",
+    "PreparationTime": "30 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "1 cup"
+      },
+      {
+        "IngredientID": "XtpDpb",
+        "Quantity": "1 cup"
+      },
+      {
+        "IngredientID": "K9klQl",
+        "Quantity": "2"
+      }
+    ],
+    "AverageRatings": "4.8",
+    "Reviews": [
+      {
+        "UserID": "132",
+        "Rating": 3.5,
+        "Comment": "Perfectly chewy and delicious!"
+      },
+      {
+        "UserID": "38",
+        "Rating": 0.5,
+        "Comment": "Great flavor and texture, a classic recipe."
+      }
+    ],
+    "Tags": [
+      "Nut-Free",
+      "Dessert",
+      "Baking"
+    ]
+  },
+  {
+    "RecipeID": "43485879-2ff2-44ca-98dc-db64e3e49530",
+    "Title": "Nut-Free Chicken Alfredo",
+    "Instructions": [
+      "Cook pasta according to package instructions.",
+      "In a pan, cook chicken with garlic and mushrooms until chicken is cooked through.",
+      "Add cream, Parmesan cheese, and season with salt and pepper.",
+      "Toss cooked pasta with chicken mixture, garnish with parsley."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "30 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "40CznT",
+        "Quantity": "1 lb"
+      },
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "1/2 cup"
+      },
+      {
+        "IngredientID": "XtpDpb",
+        "Quantity": "1/2 cup"
+      }
+    ],
+    "AverageRatings": "4.6",
+    "Reviews": [
+      {
+        "UserID": "35",
+        "Rating": 1.5,
+        "Comment": "Creamy and delicious, a classic recipe!"
+      },
+      {
+        "UserID": "11",
+        "Rating": 4.5,
+        "Comment": "Great flavor, a bit too rare for me."
+      }
+    ],
+    "Tags": [
+      "Nut-Free",
+      "Dinner",
+      "Italian"
+    ]
+  },
+  {
+    "RecipeID": "aa0c7518-085c-471c-8799-43b7b570d9a8",
+    "Title": "Nut-Free Lemon Bars",
+    "Instructions": [
+      "Preheat the oven to 350\u00b0F.",
+      "In a bowl, mix together almond flour, sugar, and salt.",
+      "Add melted butter, mix until a dough forms.",
+      "Press dough into a baking dish, bake for 15 minutes.",
+      "In a bowl, whisk together eggs, sugar, lemon juice, and zest.",
+      "Pour lemon mixture over crust, bake for 20 minutes.",
+      "Cool, then dust with powdered sugar and cut into bars."
+    ],
+    "ServingSize": "12 bars",
+    "PreparationTime": "1 hour",
+    "IngredientList": [
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "1 cup"
+      },
+      {
+        "IngredientID": "XtpDpb",
+        "Quantity": "1 cup"
+      },
+      {
+        "IngredientID": "K9klQl",
+        "Quantity": "1/2 cup"
+      }
+    ],
+    "AverageRatings": "4.7",
+    "Reviews": [
+      {
+        "UserID": "111",
+        "Rating": 2.0,
+        "Comment": "Tangy and sweet, perfect for a summer dessert!"
+      },
+      {
+        "UserID": "38",
+        "Rating": 1.5,
+        "Comment": "Great flavor and texture, a new favorite."
+      }
+    ],
+    "Tags": [
+      "Nut-Free",
+      "Dessert",
+      "Baking"
+    ]
+  },
+  {
+    "RecipeID": "edc7fc3f-5785-4dcb-988d-fb632518f783",
+    "Title": "Nut-Free Chicken Piccata",
+    "Instructions": [
+      "Cook pasta according to package instructions.",
+      "In a pan, cook chicken with garlic and capers until chicken is cooked through.",
+      "Add lemon juice, chicken broth, and butter, simmer for 5 minutes.",
+      "Toss cooked pasta with chicken mixture, garnish with parsley."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "30 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "40CznT",
+        "Quantity": "1 lb"
+      },
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "1/4 cup"
+      },
+      {
+        "IngredientID": "XtpDpb",
+        "Quantity": "1/4 cup"
+      }
+    ],
+    "AverageRatings": "4.6",
+    "Reviews": [
+      {
+        "UserID": "95",
+        "Rating": 4.5,
+        "Comment": "Tangy and delicious, a classic recipe!"
+      },
+      {
+        "UserID": "96",
+        "Rating": 3.0,
+        "Comment": "Great flavor and texture, perfect for a cozy night in."
+      }
+    ],
+    "Tags": [
+      "Nut-Free",
+      "Dinner",
+      "Italian"
+    ]
+  },
+  {
+    "RecipeID": "14533e90-445f-4c9d-bda5-bd91669e7ac6",
+    "Title": "Nut-Free Chocolate Chip Cookies",
+    "Instructions": [
+      "Preheat the oven to 350\u00b0F.",
+      "In a bowl, cream coconut oil and sugars until light and fluffy.",
+      "Add eggs and vanilla, then mix in flour, baking soda, and chocolate chips.",
+      "Drop spoonfuls of dough onto a baking sheet and bake for 10-12 minutes."
+    ],
+    "ServingSize": "24 cookies",
+    "PreparationTime": "30 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "1 cup"
+      },
+      {
+        "IngredientID": "XtpDpb",
+        "Quantity": "1 cup"
+      },
+      {
+        "IngredientID": "K9klQl",
+        "Quantity": "2"
+      }
+    ],
+    "AverageRatings": "4.8",
+    "Reviews": [
+      {
+        "UserID": "66",
+        "Rating": 1.5,
+        "Comment": "Perfectly chewy and delicious!"
+      },
+      {
+        "UserID": "77",
+        "Rating": 4.0,
+        "Comment": "Great flavor and texture, a classic recipe."
+      }
+    ],
+    "Tags": [
+      "Nut-Free",
+      "Dessert",
+      "Baking"
+    ]
+  },
+  {
+    "RecipeID": "08810d0b-2c04-4da4-a4d3-52fc16bb8fc2",
+    "Title": "Nut-Free Chicken Alfredo",
+    "Instructions": [
+      "Cook pasta according to package instructions.",
+      "In a pan, cook chicken with garlic and mushrooms until chicken is cooked through.",
+      "Add cashew cream, nutritional yeast, and season with salt and pepper.",
+      "Toss cooked pasta with chicken mixture, garnish with parsley."
+    ],
+    "ServingSize": "4 servings",
+    "PreparationTime": "30 minutes",
+    "IngredientList": [
+      {
+        "IngredientID": "40CznT",
+        "Quantity": "1 lb"
+      },
+      {
+        "IngredientID": "OUNW8h",
+        "Quantity": "1/2 cup"
+      },
+      {
+        "IngredientID": "XtpDpb",
+        "Quantity": "1/2 cup"
+      }
+    ],
+    "AverageRatings": "4.6",
+    "Reviews": [
+      {
+        "UserID": "62",
+        "Rating": 4.5,
+        "Comment": "Creamy and delicious, a classic recipe!"
+      },
+      {
+        "UserID": "134",
+        "Rating": 2.5,
+        "Comment": "Great flavor and texture, perfect for a cozy night in."
+      }
+    ],
+    "Tags": [
+      "Nut-Free",
+      "Dinner",
+      "Italian"
+    ]
+  }
+]
