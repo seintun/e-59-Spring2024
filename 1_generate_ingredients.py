@@ -18,11 +18,11 @@ def generate_ingredients(names, calorie_range, allergens):
             "fiber": f"{round(random.uniform(0, 10), 1)}g"
         }
         ingredient = {
-            "ingredient_id": ingredient_id,
+            "IngredientID": ingredient_id,
             "name": name,
-            "calorie_content": calorie_content,
+            "CaloriContent": calorie_content,
             "allergens": [allergen],
-            "nutritional_facts": nutritional_facts
+            "NutritionalFacts": nutritional_facts
         }
         ingredients.append(ingredient)
     return ingredients
