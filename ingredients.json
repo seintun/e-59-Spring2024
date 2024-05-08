@@ -1,12 +1,12 @@
 [
   {
-    "ingredient_id": "H86Kxy",
+    "IngredientID": "H86Kxy",
     "name": "Salmon",
-    "calorie_content": 298,
+    "CalorieContent": 298,
     "allergens": [
       "fish"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "26.4g",
       "carbs": "16.2g",
       "fats": "29.3g",
@@ -14,13 +14,13 @@
     }
   },
   {
-    "ingredient_id": "jc8guO",
+    "IngredientID": "jc8guO",
     "name": "Tuna",
-    "calorie_content": 422,
+    "CalorieContent": 422,
     "allergens": [
       "fish"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "8.6g",
       "carbs": "23.6g",
       "fats": "16.7g",
@@ -28,13 +28,13 @@
     }
   },
   {
-    "ingredient_id": "ajUIlj",
+    "IngredientID": "ajUIlj",
     "name": "Chicken breast",
-    "calorie_content": 177,
+    "CalorieContent": 177,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "29.2g",
       "carbs": "18.7g",
       "fats": "21.8g",
@@ -42,13 +42,13 @@
     }
   },
   {
-    "ingredient_id": "fnPIPI",
+    "IngredientID": "fnPIPI",
     "name": "Ground beef",
-    "calorie_content": 215,
+    "CalorieContent": 215,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "11.5g",
       "carbs": "3.3g",
       "fats": "15.9g",
@@ -56,13 +56,13 @@
     }
   },
   {
-    "ingredient_id": "f8koEm",
+    "IngredientID": "f8koEm",
     "name": "Bacon",
-    "calorie_content": 364,
+    "CalorieContent": 364,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "8.1g",
       "carbs": "13.3g",
       "fats": "7.6g",
@@ -70,13 +70,13 @@
     }
   },
   {
-    "ingredient_id": "k62QP9",
+    "IngredientID": "k62QP9",
     "name": "Pork ribs",
-    "calorie_content": 172,
+    "CalorieContent": 172,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "6.0g",
       "carbs": "27.3g",
       "fats": "9.8g",
@@ -84,13 +84,13 @@
     }
   },
   {
-    "ingredient_id": "Wd8AFp",
+    "IngredientID": "Wd8AFp",
     "name": "Shrimp",
-    "calorie_content": 498,
+    "CalorieContent": 498,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "22.0g",
       "carbs": "27.6g",
       "fats": "6.5g",
@@ -98,13 +98,13 @@
     }
   },
   {
-    "ingredient_id": "xx1tAM",
+    "IngredientID": "xx1tAM",
     "name": "Crab",
-    "calorie_content": 403,
+    "CalorieContent": 403,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "25.7g",
       "carbs": "29.7g",
       "fats": "6.9g",
@@ -112,13 +112,13 @@
     }
   },
   {
-    "ingredient_id": "bEGtAV",
+    "IngredientID": "bEGtAV",
     "name": "Lamb chops",
-    "calorie_content": 513,
+    "CalorieContent": 513,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "29.2g",
       "carbs": "1.7g",
       "fats": "26.4g",
@@ -126,13 +126,13 @@
     }
   },
   {
-    "ingredient_id": "Ky1a2c",
+    "IngredientID": "Ky1a2c",
     "name": "Venison",
-    "calorie_content": 463,
+    "CalorieContent": 463,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "29.1g",
       "carbs": "1.3g",
       "fats": "10.2g",
@@ -140,13 +140,13 @@
     }
   },
   {
-    "ingredient_id": "v5Hj72",
+    "IngredientID": "v5Hj72",
     "name": "Duck",
-    "calorie_content": 456,
+    "CalorieContent": 456,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "21.9g",
       "carbs": "13.4g",
       "fats": "17.4g",
@@ -154,13 +154,13 @@
     }
   },
   {
-    "ingredient_id": "wYr0Hh",
+    "IngredientID": "wYr0Hh",
     "name": "Turkey",
-    "calorie_content": 460,
+    "CalorieContent": 460,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "28.4g",
       "carbs": "16.6g",
       "fats": "12.9g",
@@ -168,13 +168,13 @@
     }
   },
   {
-    "ingredient_id": "nfFhod",
+    "IngredientID": "nfFhod",
     "name": "Beef steak",
-    "calorie_content": 352,
+    "CalorieContent": 352,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "15.8g",
       "carbs": "9.0g",
       "fats": "5.1g",
@@ -182,13 +182,13 @@
     }
   },
   {
-    "ingredient_id": "fjqoxY",
+    "IngredientID": "fjqoxY",
     "name": "Sausages",
-    "calorie_content": 169,
+    "CalorieContent": 169,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "9.1g",
       "carbs": "4.6g",
       "fats": "4.3g",
@@ -196,13 +196,13 @@
     }
   },
   {
-    "ingredient_id": "BXpxRS",
+    "IngredientID": "BXpxRS",
     "name": "Ham",
-    "calorie_content": 412,
+    "CalorieContent": 412,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "14.3g",
       "carbs": "21.1g",
       "fats": "17.9g",
@@ -210,13 +210,13 @@
     }
   },
   {
-    "ingredient_id": "yjhexE",
+    "IngredientID": "yjhexE",
     "name": "Sardines",
-    "calorie_content": 351,
+    "CalorieContent": 351,
     "allergens": [
       "fish"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "12.6g",
       "carbs": "12.2g",
       "fats": "1.7g",
@@ -224,13 +224,13 @@
     }
   },
   {
-    "ingredient_id": "2EsxuB",
+    "IngredientID": "2EsxuB",
     "name": "Trout",
-    "calorie_content": 147,
+    "CalorieContent": 147,
     "allergens": [
       "fish"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "22.4g",
       "carbs": "9.3g",
       "fats": "21.8g",
@@ -238,13 +238,13 @@
     }
   },
   {
-    "ingredient_id": "QEkhnP",
+    "IngredientID": "QEkhnP",
     "name": "Mussels",
-    "calorie_content": 387,
+    "CalorieContent": 387,
     "allergens": [
       "shellfish"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "24.4g",
       "carbs": "14.9g",
       "fats": "14.8g",
@@ -252,13 +252,13 @@
     }
   },
   {
-    "ingredient_id": "tqELAs",
+    "IngredientID": "tqELAs",
     "name": "Oysters",
-    "calorie_content": 296,
+    "CalorieContent": 296,
     "allergens": [
       "shellfish"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "24.1g",
       "carbs": "28.1g",
       "fats": "1.9g",
@@ -266,13 +266,13 @@
     }
   },
   {
-    "ingredient_id": "is2wTz",
+    "IngredientID": "is2wTz",
     "name": "Lobster",
-    "calorie_content": 344,
+    "CalorieContent": 344,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "12.0g",
       "carbs": "9.1g",
       "fats": "23.0g",
@@ -280,13 +280,13 @@
     }
   },
   {
-    "ingredient_id": "1fen50",
+    "IngredientID": "1fen50",
     "name": "Whole milk",
-    "calorie_content": 85,
+    "CalorieContent": 85,
     "allergens": [
       "dairy"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "21.9g",
       "carbs": "8.0g",
       "fats": "25.8g",
@@ -294,13 +294,13 @@
     }
   },
   {
-    "ingredient_id": "MH5UOb",
+    "IngredientID": "MH5UOb",
     "name": "Yogurt",
-    "calorie_content": 177,
+    "CalorieContent": 177,
     "allergens": [
       "dairy"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "8.0g",
       "carbs": "26.8g",
       "fats": "2.7g",
@@ -308,13 +308,13 @@
     }
   },
   {
-    "ingredient_id": "EXJvTL",
+    "IngredientID": "EXJvTL",
     "name": "Cheese",
-    "calorie_content": 121,
+    "CalorieContent": 121,
     "allergens": [
       "dairy"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "0.6g",
       "carbs": "0.6g",
       "fats": "28.3g",
@@ -322,13 +322,13 @@
     }
   },
   {
-    "ingredient_id": "KQpzZC",
+    "IngredientID": "KQpzZC",
     "name": "Butter",
-    "calorie_content": 56,
+    "CalorieContent": 56,
     "allergens": [
       "dairy"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "15.2g",
       "carbs": "29.8g",
       "fats": "15.1g",
@@ -336,13 +336,13 @@
     }
   },
   {
-    "ingredient_id": "uDwnFK",
+    "IngredientID": "uDwnFK",
     "name": "Cream",
-    "calorie_content": 158,
+    "CalorieContent": 158,
     "allergens": [
       "dairy"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "17.3g",
       "carbs": "6.2g",
       "fats": "28.3g",
@@ -350,13 +350,13 @@
     }
   },
   {
-    "ingredient_id": "gUXrb3",
+    "IngredientID": "gUXrb3",
     "name": "Sour cream",
-    "calorie_content": 195,
+    "CalorieContent": 195,
     "allergens": [
       "dairy"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "11.5g",
       "carbs": "15.7g",
       "fats": "25.0g",
@@ -364,13 +364,13 @@
     }
   },
   {
-    "ingredient_id": "Nux2bB",
+    "IngredientID": "Nux2bB",
     "name": "Cottage cheese",
-    "calorie_content": 95,
+    "CalorieContent": 95,
     "allergens": [
       "dairy"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "26.6g",
       "carbs": "24.2g",
       "fats": "16.3g",
@@ -378,13 +378,13 @@
     }
   },
   {
-    "ingredient_id": "rne5pr",
+    "IngredientID": "rne5pr",
     "name": "Whipped cream",
-    "calorie_content": 95,
+    "CalorieContent": 95,
     "allergens": [
       "dairy"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "16.4g",
       "carbs": "12.5g",
       "fats": "7.4g",
@@ -392,13 +392,13 @@
     }
   },
   {
-    "ingredient_id": "PjfqNc",
+    "IngredientID": "PjfqNc",
     "name": "Margarine",
-    "calorie_content": 94,
+    "CalorieContent": 94,
     "allergens": [
       "dairy"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "22.6g",
       "carbs": "1.3g",
       "fats": "21.7g",
@@ -406,13 +406,13 @@
     }
   },
   {
-    "ingredient_id": "TkQndZ",
+    "IngredientID": "TkQndZ",
     "name": "Condensed milk",
-    "calorie_content": 63,
+    "CalorieContent": 63,
     "allergens": [
       "dairy"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "3.9g",
       "carbs": "28.6g",
       "fats": "5.6g",
@@ -420,13 +420,13 @@
     }
   },
   {
-    "ingredient_id": "aVYuq2",
+    "IngredientID": "aVYuq2",
     "name": "Eggs",
-    "calorie_content": 150,
+    "CalorieContent": 150,
     "allergens": [
       "eggs"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "10.8g",
       "carbs": "4.9g",
       "fats": "9.4g",
@@ -434,13 +434,13 @@
     }
   },
   {
-    "ingredient_id": "uJrBZj",
+    "IngredientID": "uJrBZj",
     "name": "Egg whites",
-    "calorie_content": 113,
+    "CalorieContent": 113,
     "allergens": [
       "eggs"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "29.8g",
       "carbs": "11.1g",
       "fats": "17.5g",
@@ -448,13 +448,13 @@
     }
   },
   {
-    "ingredient_id": "e5yBse",
+    "IngredientID": "e5yBse",
     "name": "Egg yolks",
-    "calorie_content": 111,
+    "CalorieContent": 111,
     "allergens": [
       "eggs"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "25.8g",
       "carbs": "10.1g",
       "fats": "14.4g",
@@ -462,13 +462,13 @@
     }
   },
   {
-    "ingredient_id": "vJd0Ao",
+    "IngredientID": "vJd0Ao",
     "name": "Quail eggs",
-    "calorie_content": 151,
+    "CalorieContent": 151,
     "allergens": [
       "eggs"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "5.4g",
       "carbs": "10.5g",
       "fats": "2.1g",
@@ -476,13 +476,13 @@
     }
   },
   {
-    "ingredient_id": "djIKBh",
+    "IngredientID": "djIKBh",
     "name": "Duck eggs",
-    "calorie_content": 164,
+    "CalorieContent": 164,
     "allergens": [
       "eggs"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "1.9g",
       "carbs": "7.2g",
       "fats": "18.6g",
@@ -490,13 +490,13 @@
     }
   },
   {
-    "ingredient_id": "XtpDpb",
+    "IngredientID": "XtpDpb",
     "name": "Spinach",
-    "calorie_content": 34,
+    "CalorieContent": 34,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "29.8g",
       "carbs": "9.8g",
       "fats": "15.7g",
@@ -504,13 +504,13 @@
     }
   },
   {
-    "ingredient_id": "sYAlpP",
+    "IngredientID": "sYAlpP",
     "name": "Kale",
-    "calorie_content": 18,
+    "CalorieContent": 18,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "8.3g",
       "carbs": "8.9g",
       "fats": "3.8g",
@@ -518,13 +518,13 @@
     }
   },
   {
-    "ingredient_id": "UmQnD4",
+    "IngredientID": "UmQnD4",
     "name": "Broccoli",
-    "calorie_content": 39,
+    "CalorieContent": 39,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "5.2g",
       "carbs": "25.5g",
       "fats": "10.5g",
@@ -532,13 +532,13 @@
     }
   },
   {
-    "ingredient_id": "funTKc",
+    "IngredientID": "funTKc",
     "name": "Carrots",
-    "calorie_content": 35,
+    "CalorieContent": 35,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "26.5g",
       "carbs": "26.8g",
       "fats": "24.1g",
@@ -546,13 +546,13 @@
     }
   },
   {
-    "ingredient_id": "K1Rc8Z",
+    "IngredientID": "K1Rc8Z",
     "name": "Tomatoes",
-    "calorie_content": 39,
+    "CalorieContent": 39,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "25.4g",
       "carbs": "15.0g",
       "fats": "16.5g",
@@ -560,13 +560,13 @@
     }
   },
   {
-    "ingredient_id": "tErXeH",
+    "IngredientID": "tErXeH",
     "name": "Avocado",
-    "calorie_content": 39,
+    "CalorieContent": 39,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "19.0g",
       "carbs": "16.2g",
       "fats": "26.8g",
@@ -574,13 +574,13 @@
     }
   },
   {
-    "ingredient_id": "aMi9Yx",
+    "IngredientID": "aMi9Yx",
     "name": "Bell peppers",
-    "calorie_content": 35,
+    "CalorieContent": 35,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "15.9g",
       "carbs": "22.6g",
       "fats": "27.6g",
@@ -588,13 +588,13 @@
     }
   },
   {
-    "ingredient_id": "ojjWoj",
+    "IngredientID": "ojjWoj",
     "name": "Eggplant",
-    "calorie_content": 29,
+    "CalorieContent": 29,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "26.3g",
       "carbs": "6.8g",
       "fats": "24.9g",
@@ -602,13 +602,13 @@
     }
   },
   {
-    "ingredient_id": "5sNszC",
+    "IngredientID": "5sNszC",
     "name": "Zucchini",
-    "calorie_content": 32,
+    "CalorieContent": 32,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "14.7g",
       "carbs": "14.3g",
       "fats": "12.3g",
@@ -616,13 +616,13 @@
     }
   },
   {
-    "ingredient_id": "8yqz0l",
+    "IngredientID": "8yqz0l",
     "name": "Asparagus",
-    "calorie_content": 30,
+    "CalorieContent": 30,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "29.3g",
       "carbs": "12.3g",
       "fats": "13.0g",
@@ -630,13 +630,13 @@
     }
   },
   {
-    "ingredient_id": "WUILuD",
+    "IngredientID": "WUILuD",
     "name": "Lettuce",
-    "calorie_content": 44,
+    "CalorieContent": 44,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "1.1g",
       "carbs": "4.8g",
       "fats": "22.9g",
@@ -644,13 +644,13 @@
     }
   },
   {
-    "ingredient_id": "r9bjPt",
+    "IngredientID": "r9bjPt",
     "name": "Cabbage",
-    "calorie_content": 34,
+    "CalorieContent": 34,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "4.2g",
       "carbs": "29.5g",
       "fats": "2.8g",
@@ -658,13 +658,13 @@
     }
   },
   {
-    "ingredient_id": "fO98BV",
+    "IngredientID": "fO98BV",
     "name": "Cauliflower",
-    "calorie_content": 14,
+    "CalorieContent": 14,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "17.7g",
       "carbs": "16.4g",
       "fats": "1.4g",
@@ -672,13 +672,13 @@
     }
   },
   {
-    "ingredient_id": "VWhS1U",
+    "IngredientID": "VWhS1U",
     "name": "Brussels sprouts",
-    "calorie_content": 31,
+    "CalorieContent": 31,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "12.7g",
       "carbs": "12.7g",
       "fats": "16.9g",
@@ -686,13 +686,13 @@
     }
   },
   {
-    "ingredient_id": "d82FOe",
+    "IngredientID": "d82FOe",
     "name": "Artichoke",
-    "calorie_content": 25,
+    "CalorieContent": 25,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "15.8g",
       "carbs": "3.0g",
       "fats": "9.8g",
@@ -700,13 +700,13 @@
     }
   },
   {
-    "ingredient_id": "O0R76r",
+    "IngredientID": "O0R76r",
     "name": "Radish",
-    "calorie_content": 44,
+    "CalorieContent": 44,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "15.6g",
       "carbs": "10.8g",
       "fats": "29.1g",
@@ -714,13 +714,13 @@
     }
   },
   {
-    "ingredient_id": "7AyrT3",
+    "IngredientID": "7AyrT3",
     "name": "Celery",
-    "calorie_content": 40,
+    "CalorieContent": 40,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "22.0g",
       "carbs": "9.5g",
       "fats": "27.8g",
@@ -728,13 +728,13 @@
     }
   },
   {
-    "ingredient_id": "K9klQl",
+    "IngredientID": "K9klQl",
     "name": "Onion",
-    "calorie_content": 41,
+    "CalorieContent": 41,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "7.8g",
       "carbs": "15.3g",
       "fats": "18.5g",
@@ -742,13 +742,13 @@
     }
   },
   {
-    "ingredient_id": "OUNW8h",
+    "IngredientID": "OUNW8h",
     "name": "Garlic",
-    "calorie_content": 14,
+    "CalorieContent": 14,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "5.5g",
       "carbs": "14.3g",
       "fats": "27.7g",
@@ -756,13 +756,13 @@
     }
   },
   {
-    "ingredient_id": "eU98J9",
+    "IngredientID": "eU98J9",
     "name": "Ginger",
-    "calorie_content": 34,
+    "CalorieContent": 34,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "19.1g",
       "carbs": "10.3g",
       "fats": "6.9g",
@@ -770,13 +770,13 @@
     }
   },
   {
-    "ingredient_id": "jqWiFY",
+    "IngredientID": "jqWiFY",
     "name": "Bananas",
-    "calorie_content": 11,
+    "CalorieContent": 11,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "23.2g",
       "carbs": "19.1g",
       "fats": "10.8g",
@@ -784,13 +784,13 @@
     }
   },
   {
-    "ingredient_id": "imwAF6",
+    "IngredientID": "imwAF6",
     "name": "Strawberries",
-    "calorie_content": 39,
+    "CalorieContent": 39,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "2.2g",
       "carbs": "11.8g",
       "fats": "16.9g",
@@ -798,13 +798,13 @@
     }
   },
   {
-    "ingredient_id": "oHwJ97",
+    "IngredientID": "oHwJ97",
     "name": "Blueberries",
-    "calorie_content": 28,
+    "CalorieContent": 28,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "22.6g",
       "carbs": "7.4g",
       "fats": "9.5g",
@@ -812,13 +812,13 @@
     }
   },
   {
-    "ingredient_id": "qguIwI",
+    "IngredientID": "qguIwI",
     "name": "Apples",
-    "calorie_content": 22,
+    "CalorieContent": 22,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "4.5g",
       "carbs": "0.0g",
       "fats": "16.1g",
@@ -826,13 +826,13 @@
     }
   },
   {
-    "ingredient_id": "kq5ciB",
+    "IngredientID": "kq5ciB",
     "name": "Oranges",
-    "calorie_content": 45,
+    "CalorieContent": 45,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "12.0g",
       "carbs": "4.9g",
       "fats": "12.7g",
@@ -840,13 +840,13 @@
     }
   },
   {
-    "ingredient_id": "XqwY3o",
+    "IngredientID": "XqwY3o",
     "name": "Grapes",
-    "calorie_content": 45,
+    "CalorieContent": 45,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "13.5g",
       "carbs": "4.2g",
       "fats": "1.1g",
@@ -854,13 +854,13 @@
     }
   },
   {
-    "ingredient_id": "cfvynn",
+    "IngredientID": "cfvynn",
     "name": "Pears",
-    "calorie_content": 45,
+    "CalorieContent": 45,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "20.0g",
       "carbs": "3.9g",
       "fats": "1.4g",
@@ -868,13 +868,13 @@
     }
   },
   {
-    "ingredient_id": "e5gB2i",
+    "IngredientID": "e5gB2i",
     "name": "Peaches",
-    "calorie_content": 53,
+    "CalorieContent": 53,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "1.4g",
       "carbs": "16.9g",
       "fats": "5.4g",
@@ -882,13 +882,13 @@
     }
   },
   {
-    "ingredient_id": "Nr66j3",
+    "IngredientID": "Nr66j3",
     "name": "Watermelon",
-    "calorie_content": 96,
+    "CalorieContent": 96,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "14.4g",
       "carbs": "14.4g",
       "fats": "18.7g",
@@ -896,13 +896,13 @@
     }
   },
   {
-    "ingredient_id": "SFRQ92",
+    "IngredientID": "SFRQ92",
     "name": "Cantaloupe",
-    "calorie_content": 48,
+    "CalorieContent": 48,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "2.6g",
       "carbs": "8.7g",
       "fats": "3.3g",
@@ -910,13 +910,13 @@
     }
   },
   {
-    "ingredient_id": "lYF9Sa",
+    "IngredientID": "lYF9Sa",
     "name": "Pineapple",
-    "calorie_content": 64,
+    "CalorieContent": 64,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "4.7g",
       "carbs": "2.2g",
       "fats": "24.8g",
@@ -924,13 +924,13 @@
     }
   },
   {
-    "ingredient_id": "20wqZs",
+    "IngredientID": "20wqZs",
     "name": "Mango",
-    "calorie_content": 80,
+    "CalorieContent": 80,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "21.3g",
       "carbs": "10.5g",
       "fats": "19.5g",
@@ -938,13 +938,13 @@
     }
   },
   {
-    "ingredient_id": "iB2Gnm",
+    "IngredientID": "iB2Gnm",
     "name": "Kiwi",
-    "calorie_content": 26,
+    "CalorieContent": 26,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "8.6g",
       "carbs": "5.9g",
       "fats": "9.1g",
@@ -952,13 +952,13 @@
     }
   },
   {
-    "ingredient_id": "HlC5Bc",
+    "IngredientID": "HlC5Bc",
     "name": "Lemon",
-    "calorie_content": 73,
+    "CalorieContent": 73,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "29.7g",
       "carbs": "1.1g",
       "fats": "26.4g",
@@ -966,13 +966,13 @@
     }
   },
   {
-    "ingredient_id": "QyhseO",
+    "IngredientID": "QyhseO",
     "name": "Lime",
-    "calorie_content": 71,
+    "CalorieContent": 71,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "13.4g",
       "carbs": "18.9g",
       "fats": "5.6g",
@@ -980,13 +980,13 @@
     }
   },
   {
-    "ingredient_id": "LqtpUb",
+    "IngredientID": "LqtpUb",
     "name": "Pomegranate",
-    "calorie_content": 32,
+    "CalorieContent": 32,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "19.2g",
       "carbs": "29.1g",
       "fats": "11.6g",
@@ -994,13 +994,13 @@
     }
   },
   {
-    "ingredient_id": "WLGmqW",
+    "IngredientID": "WLGmqW",
     "name": "Coconut",
-    "calorie_content": 71,
+    "CalorieContent": 71,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "22.0g",
       "carbs": "27.1g",
       "fats": "10.9g",
@@ -1008,13 +1008,13 @@
     }
   },
   {
-    "ingredient_id": "XdOfM9",
+    "IngredientID": "XdOfM9",
     "name": "Cherries",
-    "calorie_content": 17,
+    "CalorieContent": 17,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "27.2g",
       "carbs": "25.8g",
       "fats": "9.6g",
@@ -1022,13 +1022,13 @@
     }
   },
   {
-    "ingredient_id": "Cz5deJ",
+    "IngredientID": "Cz5deJ",
     "name": "Raspberries",
-    "calorie_content": 71,
+    "CalorieContent": 71,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "22.3g",
       "carbs": "28.7g",
       "fats": "3.5g",
@@ -1036,13 +1036,13 @@
     }
   },
   {
-    "ingredient_id": "pChwFD",
+    "IngredientID": "pChwFD",
     "name": "Blackberries",
-    "calorie_content": 64,
+    "CalorieContent": 64,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "11.9g",
       "carbs": "20.0g",
       "fats": "18.9g",
@@ -1050,13 +1050,13 @@
     }
   },
   {
-    "ingredient_id": "Vdf9XH",
+    "IngredientID": "Vdf9XH",
     "name": "Black beans",
-    "calorie_content": 25,
+    "CalorieContent": 25,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "10.2g",
       "carbs": "1.8g",
       "fats": "25.0g",
@@ -1064,13 +1064,13 @@
     }
   },
   {
-    "ingredient_id": "wKZglY",
+    "IngredientID": "wKZglY",
     "name": "Chickpeas",
-    "calorie_content": 31,
+    "CalorieContent": 31,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "21.0g",
       "carbs": "25.6g",
       "fats": "20.1g",
@@ -1078,13 +1078,13 @@
     }
   },
   {
-    "ingredient_id": "JoGgh0",
+    "IngredientID": "JoGgh0",
     "name": "Lentils",
-    "calorie_content": 16,
+    "CalorieContent": 16,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "25.4g",
       "carbs": "4.4g",
       "fats": "7.3g",
@@ -1092,13 +1092,13 @@
     }
   },
   {
-    "ingredient_id": "yiTJpn",
+    "IngredientID": "yiTJpn",
     "name": "Kidney beans",
-    "calorie_content": 18,
+    "CalorieContent": 18,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "28.2g",
       "carbs": "29.8g",
       "fats": "3.2g",
@@ -1106,13 +1106,13 @@
     }
   },
   {
-    "ingredient_id": "pPEeam",
+    "IngredientID": "pPEeam",
     "name": "Pinto beans",
-    "calorie_content": 43,
+    "CalorieContent": 43,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "12.4g",
       "carbs": "5.6g",
       "fats": "2.3g",
@@ -1120,13 +1120,13 @@
     }
   },
   {
-    "ingredient_id": "QvWBon",
+    "IngredientID": "QvWBon",
     "name": "White beans",
-    "calorie_content": 15,
+    "CalorieContent": 15,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "15.8g",
       "carbs": "13.3g",
       "fats": "8.2g",
@@ -1134,13 +1134,13 @@
     }
   },
   {
-    "ingredient_id": "dGD2bF",
+    "IngredientID": "dGD2bF",
     "name": "Soybeans",
-    "calorie_content": 22,
+    "CalorieContent": 22,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "22.3g",
       "carbs": "0.6g",
       "fats": "29.2g",
@@ -1148,13 +1148,13 @@
     }
   },
   {
-    "ingredient_id": "40CznT",
+    "IngredientID": "40CznT",
     "name": "Quinoa",
-    "calorie_content": 43,
+    "CalorieContent": 43,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "18.9g",
       "carbs": "1.6g",
       "fats": "5.2g",
@@ -1162,13 +1162,13 @@
     }
   },
   {
-    "ingredient_id": "1VknTQ",
+    "IngredientID": "1VknTQ",
     "name": "Brown rice",
-    "calorie_content": 18,
+    "CalorieContent": 18,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "22.6g",
       "carbs": "17.9g",
       "fats": "30.0g",
@@ -1176,13 +1176,13 @@
     }
   },
   {
-    "ingredient_id": "XYJEZ0",
+    "IngredientID": "XYJEZ0",
     "name": "Basmati rice",
-    "calorie_content": 44,
+    "CalorieContent": 44,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "3.6g",
       "carbs": "11.7g",
       "fats": "9.7g",
@@ -1190,13 +1190,13 @@
     }
   },
   {
-    "ingredient_id": "kKRTTq",
+    "IngredientID": "kKRTTq",
     "name": "Jasmine rice",
-    "calorie_content": 11,
+    "CalorieContent": 11,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "0.2g",
       "carbs": "1.5g",
       "fats": "25.8g",
@@ -1204,13 +1204,13 @@
     }
   },
   {
-    "ingredient_id": "aTrIkQ",
+    "IngredientID": "aTrIkQ",
     "name": "Barley",
-    "calorie_content": 15,
+    "CalorieContent": 15,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "12.0g",
       "carbs": "6.8g",
       "fats": "17.6g",
@@ -1218,13 +1218,13 @@
     }
   },
   {
-    "ingredient_id": "CbDSFw",
+    "IngredientID": "CbDSFw",
     "name": "Buckwheat",
-    "calorie_content": 47,
+    "CalorieContent": 47,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "3.4g",
       "carbs": "1.2g",
       "fats": "0.2g",
@@ -1232,13 +1232,13 @@
     }
   },
   {
-    "ingredient_id": "3YeKuh",
+    "IngredientID": "3YeKuh",
     "name": "Millet",
-    "calorie_content": 45,
+    "CalorieContent": 45,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "13.8g",
       "carbs": "20.9g",
       "fats": "15.3g",
@@ -1246,13 +1246,13 @@
     }
   },
   {
-    "ingredient_id": "JCO17v",
+    "IngredientID": "JCO17v",
     "name": "Oats",
-    "calorie_content": 40,
+    "CalorieContent": 40,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "7.0g",
       "carbs": "12.2g",
       "fats": "4.8g",
@@ -1260,13 +1260,13 @@
     }
   },
   {
-    "ingredient_id": "w0qeHi",
+    "IngredientID": "w0qeHi",
     "name": "Rye",
-    "calorie_content": 19,
+    "CalorieContent": 19,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "28.1g",
       "carbs": "17.5g",
       "fats": "24.4g",
@@ -1274,13 +1274,13 @@
     }
   },
   {
-    "ingredient_id": "dbOrmu",
+    "IngredientID": "dbOrmu",
     "name": "Farro",
-    "calorie_content": 45,
+    "CalorieContent": 45,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "26.7g",
       "carbs": "8.1g",
       "fats": "2.2g",
@@ -1288,13 +1288,13 @@
     }
   },
   {
-    "ingredient_id": "iNEQCH",
+    "IngredientID": "iNEQCH",
     "name": "Almonds",
-    "calorie_content": 41,
+    "CalorieContent": 41,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "20.7g",
       "carbs": "9.8g",
       "fats": "25.8g",
@@ -1302,13 +1302,13 @@
     }
   },
   {
-    "ingredient_id": "OHj4OH",
+    "IngredientID": "OHj4OH",
     "name": "Walnuts",
-    "calorie_content": 42,
+    "CalorieContent": 42,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "15.0g",
       "carbs": "7.2g",
       "fats": "19.5g",
@@ -1316,13 +1316,13 @@
     }
   },
   {
-    "ingredient_id": "Rm0FWQ",
+    "IngredientID": "Rm0FWQ",
     "name": "Cashews",
-    "calorie_content": 17,
+    "CalorieContent": 17,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "27.6g",
       "carbs": "8.7g",
       "fats": "26.4g",
@@ -1330,13 +1330,13 @@
     }
   },
   {
-    "ingredient_id": "8jXITY",
+    "IngredientID": "8jXITY",
     "name": "Peanuts",
-    "calorie_content": 31,
+    "CalorieContent": 31,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "15.7g",
       "carbs": "29.9g",
       "fats": "10.4g",
@@ -1344,13 +1344,13 @@
     }
   },
   {
-    "ingredient_id": "HFXWiV",
+    "IngredientID": "HFXWiV",
     "name": "Pistachios",
-    "calorie_content": 32,
+    "CalorieContent": 32,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "19.4g",
       "carbs": "25.6g",
       "fats": "15.7g",
@@ -1358,13 +1358,13 @@
     }
   },
   {
-    "ingredient_id": "gzJANL",
+    "IngredientID": "gzJANL",
     "name": "Hazelnuts",
-    "calorie_content": 14,
+    "CalorieContent": 14,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "11.1g",
       "carbs": "13.6g",
       "fats": "2.7g",
@@ -1372,13 +1372,13 @@
     }
   },
   {
-    "ingredient_id": "GUopvu",
+    "IngredientID": "GUopvu",
     "name": "Pecans",
-    "calorie_content": 27,
+    "CalorieContent": 27,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "14.0g",
       "carbs": "15.0g",
       "fats": "13.7g",
@@ -1386,13 +1386,13 @@
     }
   },
   {
-    "ingredient_id": "lG2wqg",
+    "IngredientID": "lG2wqg",
     "name": "Macadamia nuts",
-    "calorie_content": 43,
+    "CalorieContent": 43,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "29.4g",
       "carbs": "15.2g",
       "fats": "14.9g",
@@ -1400,13 +1400,13 @@
     }
   },
   {
-    "ingredient_id": "yDVr9D",
+    "IngredientID": "yDVr9D",
     "name": "Sunflower seeds",
-    "calorie_content": 34,
+    "CalorieContent": 34,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "17.7g",
       "carbs": "6.3g",
       "fats": "8.3g",
@@ -1414,13 +1414,13 @@
     }
   },
   {
-    "ingredient_id": "moL4CH",
+    "IngredientID": "moL4CH",
     "name": "Pumpkin seeds",
-    "calorie_content": 14,
+    "CalorieContent": 14,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "19.3g",
       "carbs": "7.2g",
       "fats": "6.3g",
@@ -1428,13 +1428,13 @@
     }
   },
   {
-    "ingredient_id": "FByFaM",
+    "IngredientID": "FByFaM",
     "name": "Chia seeds",
-    "calorie_content": 48,
+    "CalorieContent": 48,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "14.4g",
       "carbs": "7.6g",
       "fats": "15.6g",
@@ -1442,13 +1442,13 @@
     }
   },
   {
-    "ingredient_id": "OOn7ci",
+    "IngredientID": "OOn7ci",
     "name": "Flaxseeds",
-    "calorie_content": 27,
+    "CalorieContent": 27,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "29.2g",
       "carbs": "23.2g",
       "fats": "22.1g",
@@ -1456,13 +1456,13 @@
     }
   },
   {
-    "ingredient_id": "lCHjdF",
+    "IngredientID": "lCHjdF",
     "name": "Sesame seeds",
-    "calorie_content": 25,
+    "CalorieContent": 25,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "24.1g",
       "carbs": "6.7g",
       "fats": "19.1g",
@@ -1470,13 +1470,13 @@
     }
   },
   {
-    "ingredient_id": "V5xNJY",
+    "IngredientID": "V5xNJY",
     "name": "Hemp seeds",
-    "calorie_content": 38,
+    "CalorieContent": 38,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "2.6g",
       "carbs": "16.8g",
       "fats": "15.5g",
@@ -1484,13 +1484,13 @@
     }
   },
   {
-    "ingredient_id": "XlbTBE",
+    "IngredientID": "XlbTBE",
     "name": "Olive oil",
-    "calorie_content": 30,
+    "CalorieContent": 30,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "22.7g",
       "carbs": "5.3g",
       "fats": "22.3g",
@@ -1498,13 +1498,13 @@
     }
   },
   {
-    "ingredient_id": "k7yxlO",
+    "IngredientID": "k7yxlO",
     "name": "Coconut oil",
-    "calorie_content": 42,
+    "CalorieContent": 42,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "0.1g",
       "carbs": "18.5g",
       "fats": "9.8g",
@@ -1512,13 +1512,13 @@
     }
   },
   {
-    "ingredient_id": "gR9N4D",
+    "IngredientID": "gR9N4D",
     "name": "Avocado oil",
-    "calorie_content": 45,
+    "CalorieContent": 45,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "26.2g",
       "carbs": "9.2g",
       "fats": "17.4g",
@@ -1526,13 +1526,13 @@
     }
   },
   {
-    "ingredient_id": "rroiYb",
+    "IngredientID": "rroiYb",
     "name": "Canola oil",
-    "calorie_content": 30,
+    "CalorieContent": 30,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "25.5g",
       "carbs": "10.9g",
       "fats": "28.3g",
@@ -1540,13 +1540,13 @@
     }
   },
   {
-    "ingredient_id": "NflQ37",
+    "IngredientID": "NflQ37",
     "name": "Sesame oil",
-    "calorie_content": 15,
+    "CalorieContent": 15,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "16.7g",
       "carbs": "5.4g",
       "fats": "14.7g",
@@ -1554,13 +1554,13 @@
     }
   },
   {
-    "ingredient_id": "NGJimz",
+    "IngredientID": "NGJimz",
     "name": "Flaxseed oil",
-    "calorie_content": 44,
+    "CalorieContent": 44,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "25.4g",
       "carbs": "18.4g",
       "fats": "17.4g",
@@ -1568,13 +1568,13 @@
     }
   },
   {
-    "ingredient_id": "5JPn7J",
+    "IngredientID": "5JPn7J",
     "name": "Grapeseed oil",
-    "calorie_content": 40,
+    "CalorieContent": 40,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "12.5g",
       "carbs": "12.0g",
       "fats": "12.8g",
@@ -1582,13 +1582,13 @@
     }
   },
   {
-    "ingredient_id": "0jek1O",
+    "IngredientID": "0jek1O",
     "name": "Peanut oil",
-    "calorie_content": 46,
+    "CalorieContent": 46,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "16.5g",
       "carbs": "15.7g",
       "fats": "20.1g",
@@ -1596,13 +1596,13 @@
     }
   },
   {
-    "ingredient_id": "zAkBQP",
+    "IngredientID": "zAkBQP",
     "name": "Safflower oil",
-    "calorie_content": 40,
+    "CalorieContent": 40,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "22.0g",
       "carbs": "4.8g",
       "fats": "10.3g",
@@ -1610,13 +1610,13 @@
     }
   },
   {
-    "ingredient_id": "dMvIwA",
+    "IngredientID": "dMvIwA",
     "name": "Herbs de Provence",
-    "calorie_content": 30,
+    "CalorieContent": 30,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "29.0g",
       "carbs": "8.1g",
       "fats": "21.5g",
@@ -1624,13 +1624,13 @@
     }
   },
   {
-    "ingredient_id": "M4tM52",
+    "IngredientID": "M4tM52",
     "name": "Dill",
-    "calorie_content": 37,
+    "CalorieContent": 37,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "19.4g",
       "carbs": "17.8g",
       "fats": "19.4g",
@@ -1638,13 +1638,13 @@
     }
   },
   {
-    "ingredient_id": "kHjY6T",
+    "IngredientID": "kHjY6T",
     "name": "Thyme",
-    "calorie_content": 17,
+    "CalorieContent": 17,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "8.1g",
       "carbs": "17.6g",
       "fats": "0.6g",
@@ -1652,13 +1652,13 @@
     }
   },
   {
-    "ingredient_id": "Fn4FS6",
+    "IngredientID": "Fn4FS6",
     "name": "Cilantro",
-    "calorie_content": 23,
+    "CalorieContent": 23,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "9.4g",
       "carbs": "22.5g",
       "fats": "21.8g",
@@ -1666,13 +1666,13 @@
     }
   },
   {
-    "ingredient_id": "rNSbq7",
+    "IngredientID": "rNSbq7",
     "name": "Parsley",
-    "calorie_content": 21,
+    "CalorieContent": 21,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "13.1g",
       "carbs": "4.7g",
       "fats": "6.4g",
@@ -1680,13 +1680,13 @@
     }
   },
   {
-    "ingredient_id": "KjoUuG",
+    "IngredientID": "KjoUuG",
     "name": "Basil",
-    "calorie_content": 43,
+    "CalorieContent": 43,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "8.5g",
       "carbs": "9.9g",
       "fats": "17.7g",
@@ -1694,13 +1694,13 @@
     }
   },
   {
-    "ingredient_id": "zISpaX",
+    "IngredientID": "zISpaX",
     "name": "Oregano",
-    "calorie_content": 48,
+    "CalorieContent": 48,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "5.1g",
       "carbs": "10.5g",
       "fats": "13.8g",
@@ -1708,13 +1708,13 @@
     }
   },
   {
-    "ingredient_id": "n5dvpK",
+    "IngredientID": "n5dvpK",
     "name": "Sage",
-    "calorie_content": 36,
+    "CalorieContent": 36,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "27.0g",
       "carbs": "4.5g",
       "fats": "21.6g",
@@ -1722,13 +1722,13 @@
     }
   },
   {
-    "ingredient_id": "iKXzXD",
+    "IngredientID": "iKXzXD",
     "name": "Rosemary",
-    "calorie_content": 17,
+    "CalorieContent": 17,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "18.7g",
       "carbs": "28.1g",
       "fats": "17.3g",
@@ -1736,13 +1736,13 @@
     }
   },
   {
-    "ingredient_id": "nwCLvU",
+    "IngredientID": "nwCLvU",
     "name": "Mint",
-    "calorie_content": 13,
+    "CalorieContent": 13,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "9.5g",
       "carbs": "7.0g",
       "fats": "0.2g",
@@ -1750,13 +1750,13 @@
     }
   },
   {
-    "ingredient_id": "Gs6aiW",
+    "IngredientID": "Gs6aiW",
     "name": "Chives",
-    "calorie_content": 15,
+    "CalorieContent": 15,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "16.3g",
       "carbs": "6.9g",
       "fats": "13.0g",
@@ -1764,13 +1764,13 @@
     }
   },
   {
-    "ingredient_id": "VTzVrA",
+    "IngredientID": "VTzVrA",
     "name": "Tarragon",
-    "calorie_content": 39,
+    "CalorieContent": 39,
     "allergens": [
       "none"
     ],
-    "nutritional_facts": {
+    "NutritionalFacts": {
       "protein": "16.6g",
       "carbs": "1.1g",
       "fats": "11.8g",
